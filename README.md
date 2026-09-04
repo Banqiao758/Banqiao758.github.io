@@ -2,7 +2,7 @@
 
 An independent, primary-source research archive on the August 1975 Banqiao
 Dam disaster in Henan, China, published as a companion to an academic
-monograph in progress. Live at https://hzhang4.github.io/Banqiao758/
+monograph in progress. Live at https://Banqiao758.github.io/
 
 Built with Jekyll (built in to GitHub Pages, no local install required to
 publish). The site is bilingual: **Chinese is the default language**, served
