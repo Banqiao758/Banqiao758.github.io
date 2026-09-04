@@ -15,10 +15,22 @@ explaining whether it can be downloaded here. See
 <a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>
 for how documents are vetted and rights are assessed before they appear here.
 
-<div class="pending">
-No catalog entries are published yet. This section will populate as documents
-clear the verification process described in the methodology.
-</div>
+## Published documents
+
+These four documents were digitized and proofread by the researcher from
+their original sources. They are presented in the original Chinese, as
+primary sources — no full English translation has been made; titles below
+are working glosses for navigation, not official translations.
+
+| Title (English gloss) | Date | Type | Rights status |
+|---|---|---|---|
+| <a href="{{ '/archive/1975-central-condolence-telegrams/' | relative_url }}">Central condolence telegrams, with the provincial committee's condolence letter, the central delegation's rally record, and personnel lists</a> (Chinese) | Aug 9&ndash;15, 1975 | Party/government communications, public proceedings record | Reproduced in full |
+| <a href="{{ '/archive/1980-banqiao-shimantan-lessons-report/' | relative_url }}">Henan Provincial Water Resources Department Party Group: Report on the Lessons of the "75.8" Failure of the Banqiao and Shimantan Reservoirs</a> (Chinese) | Nov 3, 1980 (transmitted Sept 15, 1982) | Internal party/government technical investigation report | Reproduced in full |
+| <a href="{{ '/archive/1975-national-flood-conference-summary-report/' | relative_url }}">National Flood Prevention and Reservoir Safety Conference: Summary Report (abridged transcript)</a>, by Minister Qian Zhengying (Chinese) | Dec 10, 1975 | Government conference summary report | Reproduced in full |
+| <a href="{{ '/archive/1975-henan-early-august-report/' | relative_url }}">Henan Provincial Water Resources Bureau: Report on the Early-August Flood-Fighting Situation</a> (Chinese) | Dec 1975 (National Flood Prevention and Reservoir Safety Conference) | Government self-assessment report | Reproduced in full |
+
+See each document's own page for its full source and rights-status notes.
+More documents will be added as they are located, digitized, and verified.
 
 ## Planned categories
 

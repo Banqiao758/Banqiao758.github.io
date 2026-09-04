@@ -13,9 +13,17 @@ description: 一份关于1975年板桥水库溃坝事件的原始文献目录—
 状态。文献在收录前的核实与权利评估流程，详见
 <a href="{{ '/methodology/' | relative_url }}">《史料与方法》</a>。
 
-<div class="pending">
-目前尚无已发布的目录条目。本节将随着文献通过上述核实流程逐步充实。
-</div>
+## 已发布文献
+
+| 标题 | 日期 | 类型 | 权利状态 |
+|---|---|---|---|
+| <a href="{{ '/archive/1975-central-condolence-telegrams/' | relative_url }}">中央慰问电（附省委慰问信、慰问团讲话及名单）</a> | 1975年8月9日－15日 | 党政机关公文、公开活动记录 | 完整收录 |
+| <a href="{{ '/archive/1980-banqiao-shimantan-lessons-report/' | relative_url }}">关于河南省"75．8"板桥、石漫滩水库失事经验教训的报告</a> | 1980年11月3日（1982年9月15日转发） | 党政机关内部技术调查报告 | 完整收录 |
+| <a href="{{ '/archive/1975-national-flood-conference-summary-report/' | relative_url }}">全国防汛和水库安全会议总结报告（摘要）（记录稿）</a> | 1975年12月10日 | 政府会议总结报告 | 完整收录 |
+| <a href="{{ '/archive/1975-henan-early-august-report/' | relative_url }}">河南省八月上旬抗洪斗争情况的汇报</a> | 1975年12月（全国防汛和水库安全会议） | 政府机关自我检查报告 | 完整收录 |
+
+以上四份文献由研究者本人数字化并校订，来源与权利状态说明详见各文献自身页面。
+更多文献将随查找、数字化与核实工作逐步收录。
 
 ## 拟设分类
 
