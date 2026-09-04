@@ -17,18 +17,18 @@ for how documents are vetted and rights are assessed before they appear here.
 
 ## Published documents
 
-These four documents were digitized and proofread by the researcher from
+These five documents were digitized and proofread by the researcher from
 their original sources. They are presented in the original Chinese, as
 primary sources — no full English translation has been made; titles below
 are working glosses for navigation, not official translations.
 
-| Title (English gloss) | Date | Type | Rights status |
-|---|---|---|---|
-| <a href="{{ '/archive/1975-li-xiannian-farmland-symposium-speech/' | relative_url }}">Vice Premier Li Xiannian's speech at the National Farmland Capital Construction Symposium (abridged transcript)</a> (Chinese) | Aug 11, 1975 | Transcript of a central leader's remarks | Reproduced in full |
-| <a href="{{ '/archive/1975-central-condolence-telegrams/' | relative_url }}">Central condolence telegrams, with the provincial committee's condolence letter, the central delegation's rally record, and personnel lists</a> (Chinese) | Aug 9&ndash;15, 1975 | Party/government communications, public proceedings record | Reproduced in full |
-| <a href="{{ '/archive/1980-banqiao-shimantan-lessons-report/' | relative_url }}">Henan Provincial Water Resources Department Party Group: Report on the Lessons of the "75.8" Failure of the Banqiao and Shimantan Reservoirs</a> (Chinese) | Nov 3, 1980 (transmitted Sept 15, 1982) | Internal party/government technical investigation report | Reproduced in full |
-| <a href="{{ '/archive/1975-national-flood-conference-summary-report/' | relative_url }}">National Flood Prevention and Reservoir Safety Conference: Summary Report (abridged transcript)</a>, by Minister Qian Zhengying (Chinese) | Dec 10, 1975 | Government conference summary report | Reproduced in full |
-| <a href="{{ '/archive/1975-henan-early-august-report/' | relative_url }}">Henan Provincial Water Resources Bureau: Report on the Early-August Flood-Fighting Situation</a> (Chinese) | Dec 1975 (National Flood Prevention and Reservoir Safety Conference) | Government self-assessment report | Reproduced in full |
+| Title (English gloss) | Author/Institution | Date | Type | Rights status |
+|---|---|---|---|---|
+| <a href="{{ '/archive/1975-li-xiannian-farmland-symposium-speech/' | relative_url }}">Vice Premier Li Xiannian's speech at the National Farmland Capital Construction Symposium (abridged transcript)</a> (Chinese) | Li Xiannian (Vice Premier, State Council) | Aug 11, 1975 | Transcript of a central leader's remarks | Reproduced in full |
+| <a href="{{ '/archive/1975-central-condolence-telegrams/' | relative_url }}">Central condolence telegrams, with the provincial committee's condolence letter, the central delegation's rally record, and personnel lists</a> (Chinese) | CPC Central Committee et al. (multiple issuing bodies; see full text) | Aug 9&ndash;15, 1975 | Party/government communications, public proceedings record | Reproduced in full |
+| <a href="{{ '/archive/1980-banqiao-shimantan-lessons-report/' | relative_url }}">Henan Provincial Water Resources Department Party Group: Report on the Lessons of the "75.8" Failure of the Banqiao and Shimantan Reservoirs</a> (Chinese) | Party Group, Henan Provincial Water Resources Department | Nov 3, 1980 (transmitted Sept 15, 1982) | Internal party/government technical investigation report | Reproduced in full |
+| <a href="{{ '/archive/1975-national-flood-conference-summary-report/' | relative_url }}">National Flood Prevention and Reservoir Safety Conference: Summary Report (abridged transcript)</a> (Chinese) | Qian Zhengying (Minister, Ministry of Water Resources and Electric Power) | Dec 10, 1975 | Government conference summary report | Reproduced in full |
+| <a href="{{ '/archive/1975-henan-early-august-report/' | relative_url }}">Henan Provincial Water Resources Bureau: Report on the Early-August Flood-Fighting Situation</a> (Chinese) | Henan Provincial Revolutionary Committee Water Resources Bureau | Dec 1975 (National Flood Prevention and Reservoir Safety Conference) | Government self-assessment report | Reproduced in full |
 
 See each document's own page for its full source and rights-status notes.
 More documents will be added as they are located, digitized, and verified.
