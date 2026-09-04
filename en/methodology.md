@@ -65,6 +65,34 @@ identifying details are withheld whenever a subject requests it. Consent is
 sought explicitly for any material published on this site, separately from
 consent to be interviewed at all.
 
+## Rights & reuse
+
+Much of this project's underlying material consists of scanned published
+books, gazetteers, and government-affiliated compilations. Publishing full
+scans of copyrighted works on a public website is not something this project
+does, regardless of research purpose. Material is instead handled by tier:
+
+- **Reproduced in full** &mdash; only material that isn't copyrightable to
+  begin with: Chinese laws, regulations, and official orders (excluded from
+  copyright under PRC Copyright Law Art. 5), and factual data extracted from
+  a source and re-presented in this project's own tables (facts themselves
+  are never copyrightable, only their original expression).
+- **Quoted** &mdash; short, specific excerpts needed to support a specific
+  claim, always with a full citation, under fair-use/reasonable-quotation
+  principles &mdash; not extended to whole chapters or documents.
+- **Cited only** &mdash; a full bibliographic citation and, where one exists,
+  a link to a legitimate access point (library catalog, publisher, or
+  lending service), with no file hosted here.
+- **Restricted** &mdash; material still under copyright that isn't reducible
+  to the categories above stays out of public distribution. It may be
+  described and cited, and made available to other researchers on request
+  via <a href="{{ '/en/contact/' | relative_url }}">Contact</a>, but is not
+  published as a downloadable file.
+
+Every entry in the <a href="{{ '/en/archive/' | relative_url }}">Archive</a>
+carries a rights status noting which of these applies, so a reader always
+knows why something is &mdash; or isn't &mdash; available to download here.
+
 ## Corrections
 
 This is a working archive maintained alongside an active research project, and

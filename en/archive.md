@@ -10,9 +10,10 @@ description: A catalog of primary documents on the 1975 Banqiao Dam disaster —
 
 This section catalogs primary documents as they are located, digitized, and
 verified. Every entry will list its source repository or collection, date,
-original language, and a note on how it was obtained. See
+original language, a note on how it was obtained, and a rights status
+explaining whether it can be downloaded here. See
 <a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>
-for how documents are vetted before they appear here.
+for how documents are vetted and rights are assessed before they appear here.
 
 <div class="pending">
 No catalog entries are published yet. This section will populate as documents
@@ -45,4 +46,5 @@ separated from the material itself:
 | Language | Original language; translation notice if applicable |
 | Source | Repository, collection, or provider |
 | Status | Located / digitized / translated / verified |
+| Rights status | Reproduced in full / data extracted / fair-use excerpt / cited only / restricted (see <a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>) |
 | Notes | Confidence notes, gaps, or context needed to read the document |
