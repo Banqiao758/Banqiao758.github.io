@@ -3,6 +3,8 @@ layout: default
 title: Maps & Models
 subtitle: Cartographic and engineering material
 permalink: /maps/
+lang: en
+alt_url: /zh/maps/
 description: Flood-extent maps, dam design drawings, reservoir cascade schematics, and hydraulic models related to the 1975 Banqiao Dam disaster.
 ---
 

@@ -3,6 +3,8 @@ layout: default
 title: The Book
 subtitle: An academic monograph on the 1975 Banqiao Dam disaster
 permalink: /book/
+lang: en
+alt_url: /zh/book/
 description: Status and progress notes on the academic monograph this research archive supports.
 ---
 

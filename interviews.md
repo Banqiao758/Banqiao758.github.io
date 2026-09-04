@@ -3,6 +3,8 @@ layout: default
 title: Interviews
 subtitle: Oral history, collected and reviewed under an explicit consent protocol
 permalink: /interviews/
+lang: en
+alt_url: /zh/interviews/
 description: Oral history interviews with survivors, engineers, and former officials connected to the 1975 Banqiao Dam disaster.
 ---
 

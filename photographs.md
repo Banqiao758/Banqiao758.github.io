@@ -3,6 +3,8 @@ layout: default
 title: Photographs
 subtitle: Photographic documentation, catalogued with full provenance
 permalink: /photographs/
+lang: en
+alt_url: /zh/photographs/
 description: Photographic documentation of the 1975 Banqiao Dam disaster and its aftermath, catalogued with source, date, and rights information.
 ---
 

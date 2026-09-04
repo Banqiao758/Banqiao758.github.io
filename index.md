@@ -3,6 +3,8 @@ layout: default
 title: Home
 permalink: /
 hide_title: true
+lang: en
+alt_url: /zh/
 description: An independent, primary-source research archive on the August 1975 Banqiao Dam disaster in Henan, China.
 ---
 

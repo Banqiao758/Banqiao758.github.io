@@ -3,6 +3,8 @@ layout: default
 title: Contact
 subtitle: Corrections, source contributions, and inquiries
 permalink: /contact/
+lang: en
+alt_url: /zh/contact/
 description: How to reach the researcher behind this project — to report an error, contribute a source, or ask about the research.
 ---
 

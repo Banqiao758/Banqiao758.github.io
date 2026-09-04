@@ -98,6 +98,16 @@ a:hover { text-decoration-thickness: 2px; }
   letter-spacing: 0.06em;
 }
 
+.lang-switch {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  color: var(--muted);
+  order: 2;
+}
+.lang-switch a { color: var(--muted); text-decoration: none; }
+.lang-switch a:hover { color: var(--link); }
+.lang-switch .lang-current { color: var(--fg); font-weight: 600; }
+
 .nav-toggle {
   display: none;
   flex-direction: column;

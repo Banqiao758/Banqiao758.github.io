@@ -3,6 +3,8 @@ layout: default
 title: Data & Statistics
 subtitle: Rainfall, engineering, and casualty data — presented with sourcing, not asserted
 permalink: /data/
+lang: en
+alt_url: /zh/data/
 description: Rainfall, reservoir engineering, and casualty estimate data on the 1975 Banqiao Dam disaster, compared across sources.
 ---
 

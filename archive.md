@@ -3,6 +3,8 @@ layout: default
 title: Archive
 subtitle: Primary documents, catalogued with provenance
 permalink: /archive/
+lang: en
+alt_url: /zh/archive/
 description: A catalog of primary documents on the 1975 Banqiao Dam disaster — engineering reports, administrative records, meteorological data, and correspondence.
 ---
 

@@ -1,12 +1,41 @@
 <header class="site-header">
   <div class="header-inner">
-    <a class="brand" href="{{ '/' | relative_url }}">
+    <a class="brand" href="{% if page.lang == 'zh' %}{{ '/zh/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">
       <span class="brand-mark">Banqiao758</span>
+      {% if page.lang == 'zh' %}
+      <span class="brand-sub">1975年板桥水库溃坝事件 &middot; 研究档案</span>
+      {% else %}
       <span class="brand-sub">1975 Banqiao Dam Disaster &middot; Research Archive</span>
+      {% endif %}
     </a>
+
+    <div class="lang-switch">
+      {% if page.lang == 'zh' %}
+        <a href="{{ page.alt_url | relative_url }}">EN</a><span aria-hidden="true"> / </span><span class="lang-current" aria-current="true">中文</span>
+      {% else %}
+        <span class="lang-current" aria-current="true">EN</span><span aria-hidden="true"> / </span><a href="{{ page.alt_url | default: '/zh/' | relative_url }}">中文</a>
+      {% endif %}
+    </div>
+
     <button class="nav-toggle" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="site-nav">
       <span></span><span></span><span></span>
     </button>
+
+    {% if page.lang == 'zh' %}
+    <nav class="site-nav" id="site-nav">
+      <ul>
+        <li><a href="{{ '/zh/' | relative_url }}"{% if page.url == '/zh/' %} class="active" aria-current="page"{% endif %}>首页</a></li>
+        <li><a href="{{ '/zh/methodology/' | relative_url }}"{% if page.url contains '/zh/methodology' %} class="active" aria-current="page"{% endif %}>史料与方法</a></li>
+        <li><a href="{{ '/zh/archive/' | relative_url }}"{% if page.url contains '/zh/archive' %} class="active" aria-current="page"{% endif %}>档案</a></li>
+        <li><a href="{{ '/zh/interviews/' | relative_url }}"{% if page.url contains '/zh/interviews' %} class="active" aria-current="page"{% endif %}>口述访谈</a></li>
+        <li><a href="{{ '/zh/photographs/' | relative_url }}"{% if page.url contains '/zh/photographs' %} class="active" aria-current="page"{% endif %}>影像资料</a></li>
+        <li><a href="{{ '/zh/data/' | relative_url }}"{% if page.url contains '/zh/data' %} class="active" aria-current="page"{% endif %}>数据与统计</a></li>
+        <li><a href="{{ '/zh/maps/' | relative_url }}"{% if page.url contains '/zh/maps' %} class="active" aria-current="page"{% endif %}>地图与模型</a></li>
+        <li><a href="{{ '/zh/book/' | relative_url }}"{% if page.url contains '/zh/book' %} class="active" aria-current="page"{% endif %}>学术专著</a></li>
+        <li><a href="{{ '/zh/contact/' | relative_url }}"{% if page.url contains '/zh/contact' %} class="active" aria-current="page"{% endif %}>联系方式</a></li>
+      </ul>
+    </nav>
+    {% else %}
     <nav class="site-nav" id="site-nav">
       <ul>
         <li><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active" aria-current="page"{% endif %}>Home</a></li>
@@ -20,5 +49,6 @@
         <li><a href="{{ '/contact/' | relative_url }}"{% if page.url contains 'contact' %} class="active" aria-current="page"{% endif %}>Contact</a></li>
       </ul>
     </nav>
+    {% endif %}
   </div>
 </header>

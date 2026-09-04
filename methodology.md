@@ -2,6 +2,8 @@
 layout: default
 title: Sources & Methodology
 permalink: /methodology/
+lang: en
+alt_url: /zh/methodology/
 description: The evidentiary standard this project holds itself to, and how sources are ranked, verified, and cited.
 ---
 

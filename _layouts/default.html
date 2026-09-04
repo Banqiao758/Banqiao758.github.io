@@ -1,11 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: 'en' }}">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{ page.title }}{% if page.title %} · {% endif %}{{ site.title }}</title>
 <meta name="description" content="{{ page.description | default: site.description }}">
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+{% if page.alt_url %}
+<link rel="alternate" hreflang="{% if page.lang == 'zh' %}zh-Hans{% else %}en{% endif %}" href="{{ page.url | absolute_url }}">
+<link rel="alternate" hreflang="{% if page.lang == 'zh' %}en{% else %}zh-Hans{% endif %}" href="{{ page.alt_url | absolute_url }}">
+{% endif %}
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
