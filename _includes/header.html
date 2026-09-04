@@ -1,0 +1,24 @@
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand-mark">Banqiao758</span>
+      <span class="brand-sub">1975 Banqiao Dam Disaster &middot; Research Archive</span>
+    </a>
+    <button class="nav-toggle" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="site-nav">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="site-nav" id="site-nav">
+      <ul>
+        <li><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active" aria-current="page"{% endif %}>Home</a></li>
+        <li><a href="{{ '/methodology/' | relative_url }}"{% if page.url contains 'methodology' %} class="active" aria-current="page"{% endif %}>Sources &amp; Methodology</a></li>
+        <li><a href="{{ '/archive/' | relative_url }}"{% if page.url contains 'archive' %} class="active" aria-current="page"{% endif %}>Archive</a></li>
+        <li><a href="{{ '/interviews/' | relative_url }}"{% if page.url contains 'interviews' %} class="active" aria-current="page"{% endif %}>Interviews</a></li>
+        <li><a href="{{ '/photographs/' | relative_url }}"{% if page.url contains 'photographs' %} class="active" aria-current="page"{% endif %}>Photographs</a></li>
+        <li><a href="{{ '/data/' | relative_url }}"{% if page.url contains 'data' %} class="active" aria-current="page"{% endif %}>Data &amp; Statistics</a></li>
+        <li><a href="{{ '/maps/' | relative_url }}"{% if page.url contains 'maps' %} class="active" aria-current="page"{% endif %}>Maps &amp; Models</a></li>
+        <li><a href="{{ '/book/' | relative_url }}"{% if page.url contains 'book' %} class="active" aria-current="page"{% endif %}>The Book</a></li>
+        <li><a href="{{ '/contact/' | relative_url }}"{% if page.url contains 'contact' %} class="active" aria-current="page"{% endif %}>Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>

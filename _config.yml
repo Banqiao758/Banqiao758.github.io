@@ -1,0 +1,20 @@
+title: Banqiao758
+description: >-
+  An independent research archive documenting the August 1975 Banqiao Dam
+  disaster in Henan, China, built from primary-source archives, interviews,
+  and original data compiled for an academic book in progress.
+url: "https://hzhang4.github.io"
+baseurl: "/Banqiao758"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins: []
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
