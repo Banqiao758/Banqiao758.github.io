@@ -8,13 +8,7 @@ alt_url: /contact/
 description: How to reach the researcher behind this project — to report an error, contribute a source, or ask about the research.
 ---
 
-<!--
-  Replace the placeholder below with your preferred contact method.
-  If you'd rather not publish a personal email directly, consider a
-  dedicated address for this project, or a contact form service.
--->
-
-**Email:** _[add your contact email here]_
+**Email:** [banqiao758@gmail.com](mailto:banqiao758@gmail.com)
 
 Reasons to get in touch:
 
