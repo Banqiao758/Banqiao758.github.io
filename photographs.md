@@ -1,36 +1,33 @@
 ---
 layout: default
-title: Photographs
-subtitle: Photographic documentation, catalogued with full provenance
+title: 影像资料
+subtitle: 附有完整来源标注的影像记录
 permalink: /photographs/
-lang: en
-alt_url: /zh/photographs/
-description: Photographic documentation of the 1975 Banqiao Dam disaster and its aftermath, catalogued with source, date, and rights information.
+lang: zh
+alt_url: /en/photographs/
+description: 与1975年板桥水库溃坝事件及其后续影响相关的影像资料，均标注来源、日期与版权信息。
 ---
 
-This gallery will hold photographic material connected to the disaster and its
-aftermath: contemporaneous photographs, document scans, site photography from
-later research visits, and survivor or subject portraits made with consent.
+本页面将收录与此次灾难及其后续影响相关的影像资料：灾难发生时期的照片、文献扫描件、
+后续研究考察时拍摄的现场照片，以及在受访者同意下拍摄的人物肖像。
 
 <div class="pending">
-No images are published yet. Each will be added with source, date, location,
-and rights information once catalogued &mdash; see
-<a href="{{ '/methodology/' | relative_url }}">Sources &amp; Methodology</a>.
+目前尚无已发布的图像。每张图像在完成编目后，都将附上来源、日期、地点及版权信息一并
+发布——参见<a href="{{ '/methodology/' | relative_url }}">《史料与方法》</a>。
 </div>
 
-## Planned categories
+## 拟设分类
 
 <div class="gallery-grid">
-  <div class="gallery-placeholder">Contemporaneous photographs (1975&ndash;)</div>
-  <div class="gallery-placeholder">Document and archive scans</div>
-  <div class="gallery-placeholder">Site photography, later research visits</div>
-  <div class="gallery-placeholder">Portraits (with subject consent)</div>
-  <div class="gallery-placeholder">Reconstruction and resettlement</div>
-  <div class="gallery-placeholder">Memorials and present-day sites</div>
+  <div class="gallery-placeholder">灾难发生时期的照片（1975年起）</div>
+  <div class="gallery-placeholder">文献与档案扫描件</div>
+  <div class="gallery-placeholder">后续研究考察现场照片</div>
+  <div class="gallery-placeholder">人物肖像（经受访者同意）</div>
+  <div class="gallery-placeholder">灾后重建与安置</div>
+  <div class="gallery-placeholder">纪念场所与当代现状</div>
 </div>
 
-## Caption format
+## 图注格式
 
-Every image, once published, will carry: source, date (or estimated date
-range), location, photographer or rights holder if known, and a confidence
-note on authenticity where relevant.
+每张已发布的图像都将标注：来源、日期（或估计的时间范围）、地点、摄影者或版权所有者
+（如已知），以及涉及真实性的相关可信度说明。

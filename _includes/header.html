@@ -1,19 +1,19 @@
 <header class="site-header">
   <div class="header-inner">
-    <a class="brand" href="{% if page.lang == 'zh' %}{{ '/zh/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">
+    <a class="brand" href="{% if page.lang == 'en' %}{{ '/en/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">
       <span class="brand-mark">Banqiao758</span>
-      {% if page.lang == 'zh' %}
-      <span class="brand-sub">1975年板桥水库溃坝事件 &middot; 研究档案</span>
-      {% else %}
+      {% if page.lang == 'en' %}
       <span class="brand-sub">1975 Banqiao Dam Disaster &middot; Research Archive</span>
+      {% else %}
+      <span class="brand-sub">1975年板桥水库溃坝事件 &middot; 研究档案</span>
       {% endif %}
     </a>
 
     <div class="lang-switch">
-      {% if page.lang == 'zh' %}
-        <a href="{{ page.alt_url | relative_url }}">EN</a><span aria-hidden="true"> / </span><span class="lang-current" aria-current="true">中文</span>
+      {% if page.lang == 'en' %}
+        <span class="lang-current" aria-current="true">EN</span><span aria-hidden="true"> / </span><a href="{{ page.alt_url | default: '/' | relative_url }}">中文</a>
       {% else %}
-        <span class="lang-current" aria-current="true">EN</span><span aria-hidden="true"> / </span><a href="{{ page.alt_url | default: '/zh/' | relative_url }}">中文</a>
+        <a href="{{ page.alt_url | default: '/en/' | relative_url }}">EN</a><span aria-hidden="true"> / </span><span class="lang-current" aria-current="true">中文</span>
       {% endif %}
     </div>
 
@@ -21,32 +21,32 @@
       <span></span><span></span><span></span>
     </button>
 
-    {% if page.lang == 'zh' %}
+    {% if page.lang == 'en' %}
     <nav class="site-nav" id="site-nav">
       <ul>
-        <li><a href="{{ '/zh/' | relative_url }}"{% if page.url == '/zh/' %} class="active" aria-current="page"{% endif %}>首页</a></li>
-        <li><a href="{{ '/zh/methodology/' | relative_url }}"{% if page.url contains '/zh/methodology' %} class="active" aria-current="page"{% endif %}>史料与方法</a></li>
-        <li><a href="{{ '/zh/archive/' | relative_url }}"{% if page.url contains '/zh/archive' %} class="active" aria-current="page"{% endif %}>档案</a></li>
-        <li><a href="{{ '/zh/interviews/' | relative_url }}"{% if page.url contains '/zh/interviews' %} class="active" aria-current="page"{% endif %}>口述访谈</a></li>
-        <li><a href="{{ '/zh/photographs/' | relative_url }}"{% if page.url contains '/zh/photographs' %} class="active" aria-current="page"{% endif %}>影像资料</a></li>
-        <li><a href="{{ '/zh/data/' | relative_url }}"{% if page.url contains '/zh/data' %} class="active" aria-current="page"{% endif %}>数据与统计</a></li>
-        <li><a href="{{ '/zh/maps/' | relative_url }}"{% if page.url contains '/zh/maps' %} class="active" aria-current="page"{% endif %}>地图与模型</a></li>
-        <li><a href="{{ '/zh/book/' | relative_url }}"{% if page.url contains '/zh/book' %} class="active" aria-current="page"{% endif %}>学术专著</a></li>
-        <li><a href="{{ '/zh/contact/' | relative_url }}"{% if page.url contains '/zh/contact' %} class="active" aria-current="page"{% endif %}>联系方式</a></li>
+        <li><a href="{{ '/en/' | relative_url }}"{% if page.url == '/en/' %} class="active" aria-current="page"{% endif %}>Home</a></li>
+        <li><a href="{{ '/en/methodology/' | relative_url }}"{% if page.url contains '/en/methodology' %} class="active" aria-current="page"{% endif %}>Sources &amp; Methodology</a></li>
+        <li><a href="{{ '/en/archive/' | relative_url }}"{% if page.url contains '/en/archive' %} class="active" aria-current="page"{% endif %}>Archive</a></li>
+        <li><a href="{{ '/en/interviews/' | relative_url }}"{% if page.url contains '/en/interviews' %} class="active" aria-current="page"{% endif %}>Interviews</a></li>
+        <li><a href="{{ '/en/photographs/' | relative_url }}"{% if page.url contains '/en/photographs' %} class="active" aria-current="page"{% endif %}>Photographs</a></li>
+        <li><a href="{{ '/en/data/' | relative_url }}"{% if page.url contains '/en/data' %} class="active" aria-current="page"{% endif %}>Data &amp; Statistics</a></li>
+        <li><a href="{{ '/en/maps/' | relative_url }}"{% if page.url contains '/en/maps' %} class="active" aria-current="page"{% endif %}>Maps &amp; Models</a></li>
+        <li><a href="{{ '/en/book/' | relative_url }}"{% if page.url contains '/en/book' %} class="active" aria-current="page"{% endif %}>The Book</a></li>
+        <li><a href="{{ '/en/contact/' | relative_url }}"{% if page.url contains '/en/contact' %} class="active" aria-current="page"{% endif %}>Contact</a></li>
       </ul>
     </nav>
     {% else %}
     <nav class="site-nav" id="site-nav">
       <ul>
-        <li><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active" aria-current="page"{% endif %}>Home</a></li>
-        <li><a href="{{ '/methodology/' | relative_url }}"{% if page.url contains 'methodology' %} class="active" aria-current="page"{% endif %}>Sources &amp; Methodology</a></li>
-        <li><a href="{{ '/archive/' | relative_url }}"{% if page.url contains 'archive' %} class="active" aria-current="page"{% endif %}>Archive</a></li>
-        <li><a href="{{ '/interviews/' | relative_url }}"{% if page.url contains 'interviews' %} class="active" aria-current="page"{% endif %}>Interviews</a></li>
-        <li><a href="{{ '/photographs/' | relative_url }}"{% if page.url contains 'photographs' %} class="active" aria-current="page"{% endif %}>Photographs</a></li>
-        <li><a href="{{ '/data/' | relative_url }}"{% if page.url contains 'data' %} class="active" aria-current="page"{% endif %}>Data &amp; Statistics</a></li>
-        <li><a href="{{ '/maps/' | relative_url }}"{% if page.url contains 'maps' %} class="active" aria-current="page"{% endif %}>Maps &amp; Models</a></li>
-        <li><a href="{{ '/book/' | relative_url }}"{% if page.url contains 'book' %} class="active" aria-current="page"{% endif %}>The Book</a></li>
-        <li><a href="{{ '/contact/' | relative_url }}"{% if page.url contains 'contact' %} class="active" aria-current="page"{% endif %}>Contact</a></li>
+        <li><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active" aria-current="page"{% endif %}>首页</a></li>
+        <li><a href="{{ '/methodology/' | relative_url }}"{% if page.url contains 'methodology' %} class="active" aria-current="page"{% endif %}>史料与方法</a></li>
+        <li><a href="{{ '/archive/' | relative_url }}"{% if page.url contains 'archive' %} class="active" aria-current="page"{% endif %}>档案</a></li>
+        <li><a href="{{ '/interviews/' | relative_url }}"{% if page.url contains 'interviews' %} class="active" aria-current="page"{% endif %}>口述访谈</a></li>
+        <li><a href="{{ '/photographs/' | relative_url }}"{% if page.url contains 'photographs' %} class="active" aria-current="page"{% endif %}>影像资料</a></li>
+        <li><a href="{{ '/data/' | relative_url }}"{% if page.url contains 'data' %} class="active" aria-current="page"{% endif %}>数据与统计</a></li>
+        <li><a href="{{ '/maps/' | relative_url }}"{% if page.url contains 'maps' %} class="active" aria-current="page"{% endif %}>地图与模型</a></li>
+        <li><a href="{{ '/book/' | relative_url }}"{% if page.url contains 'book' %} class="active" aria-current="page"{% endif %}>学术专著</a></li>
+        <li><a href="{{ '/contact/' | relative_url }}"{% if page.url contains 'contact' %} class="active" aria-current="page"{% endif %}>联系方式</a></li>
       </ul>
     </nav>
     {% endif %}

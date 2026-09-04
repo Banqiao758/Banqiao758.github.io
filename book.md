@@ -1,35 +1,30 @@
 ---
 layout: default
-title: The Book
-subtitle: An academic monograph on the 1975 Banqiao Dam disaster
+title: 学术专著
+subtitle: 一部关于1975年板桥水库溃坝事件的学术专著
 permalink: /book/
-lang: en
-alt_url: /zh/book/
-description: Status and progress notes on the academic monograph this research archive supports.
+lang: zh
+alt_url: /en/book/
+description: 本研究档案库所支持的学术专著的进展说明。
 ---
 
-This site is the public-facing companion to an academic book currently in
-progress on the 1975 Banqiao Dam disaster. The book draws on the same
-primary-source material catalogued here &mdash; archival documents, data, and
-interviews &mdash; and is where the fuller argument, analysis, and citation
-apparatus will appear.
+本站是一部正在撰写中的关于1975年板桥水库溃坝事件学术专著的公开配套网站。该书取材于
+本站所收录的同一批原始史料——档案文献、数据与口述访谈——并将呈现更为完整的论证、
+分析与引注体系。
 
 <div class="pending">
-Working title, scope, and chapter outline to be added here. This page will
-also carry a progress log of research milestones as they happen &mdash;
-archive discoveries, interviews completed, chapters drafted.
+本页后续将补充该书的工作标题、研究范围与章节大纲，并设有进展记录，用于随时更新
+研究里程碑——例如新发现的档案、完成的访谈，或已完成初稿的章节。
 </div>
 
-## Progress log
+## 进展记录
 
 <div class="pending">
-No entries yet.
+暂无记录。
 </div>
 
-## Relationship between the book and this site
+## 本书与本站的关系
 
-The book is the primary scholarly output; this site is a working notebook and
-public record of the underlying material. Where the two differ &mdash; for
-instance, if further research changes an earlier reading of a document
-published here &mdash; the book's analysis takes precedence, and this site
-will be updated to note the correction.
+本书是主要的学术研究成果；本站则是相关原始材料的工作笔记与公开记录。若二者出现
+不一致——例如后续研究改变了对本站已发布某份文献的既有解读——以书中分析为准，
+本站也会随之更新并注明更正。

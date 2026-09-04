@@ -1,37 +1,30 @@
 ---
 layout: default
-title: Contact
-subtitle: Corrections, source contributions, and inquiries
+title: 联系方式
+subtitle: 更正意见、史料提供与咨询
 permalink: /contact/
-lang: en
-alt_url: /zh/contact/
-description: How to reach the researcher behind this project — to report an error, contribute a source, or ask about the research.
+lang: zh
+alt_url: /en/contact/
+description: 如何联系本项目研究者——报告错误、提供史料，或咨询相关研究情况。
 ---
 
 <!--
-  Replace the placeholder below with your preferred contact method.
-  If you'd rather not publish a personal email directly, consider a
-  dedicated address for this project, or a contact form service.
+  请将下方占位内容替换为您希望公开的联系方式。
+  若不便直接公开个人邮箱，可考虑为本项目单独设置一个邮箱，或使用联系表单服务。
 -->
 
-**Email:** _[add your contact email here]_
+**电子邮箱：** _[请在此处填写您的联系邮箱]_
 
-Reasons to get in touch:
+以下情况欢迎联系：
 
-- **Corrections** &mdash; you've spotted an error, a mistranslation, or a
-  claim on this site that needs a better source.
-- **Source contributions** &mdash; you hold documents, photographs, data, or
-  personal testimony relevant to this event.
-- **Interview subjects** &mdash; if you or a family member were affected and
-  are willing to be interviewed, or if you were previously interviewed and
-  want to revisit your consent for how you're represented here.
-- **Academic and media inquiries** &mdash; about the research or the
-  forthcoming book.
+- **更正意见**——您发现本站存在错误、翻译不当，或某项陈述需要更可靠的来源。
+- **史料提供**——您持有与此事件相关的文献、照片、数据或个人口述资料。
+- **受访意愿**——您本人或家属曾受此事件影响，愿意接受访谈；或您此前曾接受过访谈，
+  希望重新确认您在本站的呈现方式。
+- **学术与媒体咨询**——关于本研究或即将出版的专著的相关问题。
 
-## Confidentiality
+## 保密说明
 
-If you're reaching out with sensitive material or personal testimony, say so
-in your first message and it will be handled under the same consent and
-anonymization protocol described in
-<a href="{{ '/methodology/' | relative_url }}">Sources &amp; Methodology</a>.
-You are not committing to anything by making initial contact.
+如果您联系时携带敏感材料或个人口述内容，请在第一条消息中说明，相关处理将遵循
+<a href="{{ '/methodology/' | relative_url }}">《史料与方法》</a>中所述的同一套
+知情同意与匿名化流程。仅仅发起联系，并不意味着您需要承担任何后续义务。

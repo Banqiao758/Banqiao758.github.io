@@ -5,27 +5,37 @@ Dam disaster in Henan, China, published as a companion to an academic
 monograph in progress. Live at https://hzhang4.github.io/Banqiao758/
 
 Built with Jekyll (built in to GitHub Pages, no local install required to
-publish). Content pages live at the repo root as `.md` files with front
-matter; shared chrome is in `_layouts/` and `_includes/`; styling is in
-`assets/css/style.css`.
+publish). The site is bilingual: **Chinese is the default language**, served
+from the repo root; English lives under `/en/`. Shared chrome is in
+`_layouts/` and `_includes/`; styling is in `assets/css/style.css`. This
+README and all repo-level metadata stay in English by convention — only the
+site content itself is bilingual.
 
 ## Site structure
 
-- `index.md` — home
-- `methodology.md` — sources & evidentiary standard for the whole site
-- `archive.md` — primary document catalog
-- `interviews.md` — oral history
-- `photographs.md` — photo catalog
-- `data.md` — rainfall, engineering, and casualty-estimate data
-- `maps.md` — maps and engineering models
-- `book.md` — status of the companion book
-- `contact.md` — corrections and source contributions
+Each page exists twice — once in Chinese at the repo root, once in English
+under `en/` — linked to each other via `alt_url` front matter and a language
+switcher in the header.
+
+| Chinese (default) | English | Page |
+|---|---|---|
+| `index.md` (`/`) | `en/index.md` (`/en/`) | Home |
+| `methodology.md` | `en/methodology.md` | Sources & evidentiary standard |
+| `archive.md` | `en/archive.md` | Primary document catalog |
+| `interviews.md` | `en/interviews.md` | Oral history |
+| `photographs.md` | `en/photographs.md` | Photo catalog |
+| `data.md` | `en/data.md` | Rainfall, engineering, casualty-estimate data |
+| `maps.md` | `en/maps.md` | Maps and engineering models |
+| `book.md` | `en/book.md` | Status of the companion book |
+| `contact.md` | `en/contact.md` | Corrections and source contributions |
 
 ## Editing
 
-Each page is Markdown with YAML front matter (`layout`, `title`, `permalink`).
-Edit the `.md` files directly — no build step is needed locally; GitHub Pages
-builds the site automatically on push to `main`.
+Each page is Markdown with YAML front matter (`layout`, `title`, `permalink`,
+`lang`, `alt_url`). Edit the `.md` files directly — no build step is needed
+locally; GitHub Pages builds the site automatically on push to `main`. When
+you add or change a page, keep its Chinese/English counterpart and `alt_url`
+in sync so the language switcher keeps working.
 
 To preview locally (optional), with Ruby and Bundler installed:
 

@@ -1,50 +1,43 @@
 ---
 layout: default
-title: Interviews
-subtitle: Oral history, collected and reviewed under an explicit consent protocol
+title: 口述访谈
+subtitle: 在明确知情同意流程下采集与审核的口述历史
 permalink: /interviews/
-lang: en
-alt_url: /zh/interviews/
-description: Oral history interviews with survivors, engineers, and former officials connected to the 1975 Banqiao Dam disaster.
+lang: zh
+alt_url: /en/interviews/
+description: 与1975年板桥水库溃坝事件相关的幸存者、工程技术人员及前官员的口述历史访谈。
 ---
 
-This project collects first-hand testimony from survivors, engineers, former
-local officials, and other researchers with direct knowledge of the event or
-its aftermath. Interviews are a central source for this research, but they are
-also the material most likely to put a real person at risk if handled poorly
-&mdash; so publication here is deliberately slower than for documents.
+本项目采集幸存者、工程技术人员、前地方官员，以及对此事件或其后续影响有直接了解的
+其他研究者的第一手口述资料。访谈是本研究的核心史料之一，但同时也是若处理不当，
+最容易使真实个人置于风险之中的材料——因此，相较于文献资料，本站在公开发布访谈内容
+方面会更为审慎、更为缓慢。
 
 <div class="pending">
-No interview excerpts are published yet. Material will appear here once
-processing, transcription, and the consent review described below are
-complete for a given interview.
+目前尚无已发布的访谈摘录。相关内容将在完成整理、转录，并通过下述知情同意审核流程后，
+逐步发布于此。
 </div>
 
-## Consent and anonymization
+## 知情同意与匿名化
 
-Every subject chooses, in writing, how they are represented on this site:
+每位受访者均以书面方式，自行选择其在本站的呈现方式：
 
-- **Named**, with their consent recorded.
-- **Partially identified** (e.g. role and region, no name).
-- **Anonymized**, referred to only by a coded identifier (e.g. `S-01` for a
-  survivor, `E-01` for an engineer).
+- **实名**，并留存其同意记录。
+- **部分匿名**（例如仅标注身份或所在地区，不含姓名）。
+- **完全匿名**，仅以编号代称（如幸存者用 `S-01`，工程技术人员用 `E-01`）。
 
-Consent to be interviewed and consent to be published are treated as separate
-decisions. A subject can permit an interview for the researcher's own use
-without agreeing to have any part of it appear publicly, and can withdraw
-consent for public material after the fact. Full detail is in
-<a href="{{ '/methodology/' | relative_url }}">Sources &amp; Methodology</a>.
+接受访谈的同意与公开发布的同意，被视为两项各自独立的决定。受访者可以仅同意接受
+访谈供研究者本人使用，而不同意任何内容公开发布；事后如改变主意，也可撤回对公开
+发布内容的同意。完整说明见<a href="{{ '/methodology/' | relative_url }}">《史料与方法》</a>。
 
-## Planned interview categories
+## 拟设访谈类别
 
-- **Survivors and family members**
-- **Engineers and technical personnel** involved in design, operation, or the
-  post-failure investigation
-- **Former local administrators**
-- **Other researchers and historians** working on this event
+- **幸存者及其家属**
+- **参与设计、运行或事后调查的工程技术人员**
+- **前地方行政官员**
+- **研究此事件的其他学者与历史研究者**
 
-## Excerpt format
+## 摘录格式
 
-When published, each excerpt will carry: subject identifier (name or code),
-role/relationship to the event, date and location of the interview, language
-of the original interview, and a translation notice where applicable.
+每段发布的摘录都将标注：受访者标识（姓名或编号）、其与事件的身份关系、访谈日期与
+地点、访谈所用原始语言，以及如有翻译的相关说明。

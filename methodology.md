@@ -1,74 +1,55 @@
 ---
 layout: default
-title: Sources & Methodology
+title: 史料与方法
 permalink: /methodology/
-lang: en
-alt_url: /zh/methodology/
-description: The evidentiary standard this project holds itself to, and how sources are ranked, verified, and cited.
+lang: zh
+alt_url: /en/methodology/
+description: 本站所秉持的史料标准，及其对来源分级、核实与引用方式的说明。
 ---
 
-This page states the evidentiary standard the rest of the site is held to. It
-exists because the public record on this event is unusually polluted: decades
-of official silence, followed by a mix of foreign press speculation, advocacy
-writing, and viral secondhand retellings, have left the topic with very few
-claims that are both specific and verifiable. This project would rather
-publish less, slowly, than repeat a number or a story it cannot trace to a
-source.
+本页说明本站其余部分所遵循的证据标准。之所以有必要专门说明，是因为围绕此事件的公开
+记录被严重污染：数十年的官方缄默，加上其后外国媒体的种种揣测、带有立场的写作，以及
+大量未经核实、以讹传讹的网络转述，使得这一议题上真正做到既具体又可核实的说法非常稀少。
+本项目宁可发布得更少、更慢，也不愿转述一个无法溯源的数字或说法。
 
-## How sources are ranked
+## 史料分级
 
-1. **Primary engineering and technical records** &mdash; dam design and
-   construction documents, hydrological survey data, post-failure engineering
-   investigations, and reservoir operation records.
-2. **Contemporaneous meteorological and hydrological data** &mdash; rainfall
-   and river-flow records from the period, and later peer-reviewed hydrological
-   analyses that reprocess that raw data.
-3. **First-hand testimony** &mdash; interviews with survivors, engineers, and
-   former local officials, collected directly for this project under the
-   consent and anonymization protocol described below.
-4. **Government and administrative archives** &mdash; internal records,
-   correspondence, and reports from the relevant period and its aftermath.
-5. **Peer-reviewed academic literature** &mdash; used where it engages directly
-   with (1)&ndash;(4) and shows its own sourcing; treated more cautiously where
-   it does not.
-6. **Contemporary and later press accounts** &mdash; used only where
-   corroborated by one of the above, and always flagged as press reporting
-   rather than primary fact.
+1. **原始工程与技术记录**——水库设计与施工文件、水文勘测数据、溃坝后的工程调查报告，
+   以及水库运行记录。
+2. **同时期气象与水文数据**——灾害期间气象站的降雨与河流流量记录，以及后续对这些原始
+   数据进行再处理的同行评审水文学分析。
+3. **第一手口述资料**——依照下文所述的知情同意与匿名化流程，直接为本项目采集的幸存者、
+   工程技术人员与前地方官员访谈。
+4. **政府与行政档案**——相关时期及事后的内部记录、往来函件与报告。
+5. **同行评审学术文献**——仅当其直接依据上述第(1)至(4)项并展示自身引用来源时予以采用；
+   若未能做到这一点，则采取更为审慎的态度。
+6. **同时期及后续媒体报道**——仅在能被上述来源印证时使用，并始终标注为媒体报道，
+   而非原始事实。
 
-Claims that exist only in secondary retellings &mdash; with no traceable
-origin in (1)&ndash;(4) &mdash; are not presented on this site as established
-fact. Where such a claim is widely repeated but unverifiable, that will be
-noted explicitly rather than left unaddressed, particularly on the
-<a href="{{ '/data/' | relative_url }}">Data &amp; Statistics</a> page, where
-casualty and damage figures are the most contested part of the record.
+仅存在于二手转述中——即无法追溯到第(1)至(4)项来源——的说法，不会在本站作为既定
+事实呈现。若某一说法广为流传却无法核实，本站会明确指出这一点，而非回避不提，
+尤其是在<a href="{{ '/data/' | relative_url }}">《数据与统计》</a>页面——伤亡
+与损失数字是这一记录中争议最大的部分。
 
-## Provenance on every item
+## 每项材料的来源标注
 
-Every document, photograph, data point, and interview excerpt published here
-will carry:
+本站所发布的每一份文献、每一张照片、每一项数据以及每一段访谈摘录，都将标注：
 
-- **Source** &mdash; where it came from (repository, collection, or interview
-  subject).
-- **Date** &mdash; of the original material, not of its publication here.
-- **Language and translation notice** &mdash; most primary material is in
-  Chinese; translations are the researcher's own unless stated otherwise.
-- **Confidence notes** &mdash; anything uncertain about authenticity,
-  transcription, or interpretation.
+- **来源**——材料出处（档案机构、收藏或受访者）。
+- **日期**——原始材料的日期，而非其在本站发布的日期。
+- **语言与翻译说明**——多数原始材料为中文；除非另有说明，译文均由研究者本人完成。
+- **可信度说明**——涉及真实性、转录或解读方面的任何不确定之处。
 
-## Interview ethics
+## 访谈伦理
 
-Interview subjects, and in some cases their family members, may face personal
-or professional risk from being publicly associated with this topic. Subjects
-are given the choice to be identified, partially identified, or fully
-anonymized (referred to by a coded identifier rather than a name), and
-identifying details are withheld whenever a subject requests it. Consent is
-sought explicitly for any material published on this site, separately from
-consent to be interviewed at all.
+受访者及其部分家属，可能因公开与此议题相关联而面临个人或职业风险。受访者可自行
+选择以实名、部分匿名（隐去姓名，仅保留身份或角色信息），或完全匿名（以编号代称）的
+方式呈现，且只要受访者提出要求，相关识别信息即会被隐去。是否同意在本站公开发布，
+将与是否同意接受访谈分开单独征求同意。
 
-## Corrections
+## 更正
 
-This is a working archive maintained alongside an active research project, and
-it will contain gaps and, at times, errors. If you can point to a
-misattribution, a mistranslation, or a claim that needs a better source, see
-<a href="{{ '/contact/' | relative_url }}">Contact</a>. Corrections are
-tracked and, where they change a published claim, noted on the relevant page.
+本站是与一项正在进行的研究工作同步维护的档案库，因此难免存在空白，有时也会出现
+错误。如果您能指出错误归属、翻译不当，或某项陈述需要更可靠的来源，
+请见<a href="{{ '/contact/' | relative_url }}">《联系方式》</a>。所有更正意见
+都会被记录，若因此改变了已发布的陈述，也会在相关页面注明。

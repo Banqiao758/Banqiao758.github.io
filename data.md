@@ -1,44 +1,35 @@
 ---
 layout: default
-title: Data & Statistics
-subtitle: Rainfall, engineering, and casualty data — presented with sourcing, not asserted
+title: 数据与统计
+subtitle: 降雨、工程与伤亡数据——注明来源，而非断言结论
 permalink: /data/
-lang: en
-alt_url: /zh/data/
-description: Rainfall, reservoir engineering, and casualty estimate data on the 1975 Banqiao Dam disaster, compared across sources.
+lang: zh
+alt_url: /en/data/
+description: 关于1975年板桥水库溃坝事件的降雨、水库工程与伤亡估算数据，按来源分类比较。
 ---
 
-Casualty and damage figures for this event are the most politically charged
-and least consistent part of the public record: estimates in circulation span
-an extremely wide range, depending on who compiled them, when, from what
-records, and under what political constraints. This project will not publish
-a single headline number. Instead, this page will present a **comparison
-table** of estimates, each tied to a named source, a publication date, and a
-methodology note, so a reader can judge the estimate rather than take it on
-faith.
+此次事件的伤亡与损失数字，是公开记录中政治色彩最浓、也最不一致的部分：目前流传的
+各类估算数字跨度极大，取决于统计者是谁、统计于何时、依据何种记录，以及受到怎样的
+政治约束。本项目不会发布单一的"标题数字"。取而代之，本页将呈现一份**比较表**，
+列出各项估算，并逐一标注其具体来源、发布年份与方法说明，以便读者据此自行判断，
+而非全盘采信。
 
 <div class="pending">
-No entries are published yet. Rows will be added only once a source and its
-methodology can be stated in full &mdash; see
-<a href="{{ '/methodology/' | relative_url }}">Sources &amp; Methodology</a>.
-No unverified figure will be published here, including ranges commonly seen
-elsewhere online.
+目前尚无已发布的条目。只有在能够完整说明来源及其方法时，相关条目才会被收录——参见
+<a href="{{ '/methodology/' | relative_url }}">《史料与方法》</a>。本页不会发布
+任何未经核实的数字，即便是网络上常见的估算区间，也不例外。
 </div>
 
-## Casualty and damage estimates (planned format)
+## 伤亡与损失估算（拟设格式）
 
-| Estimate | Source | Type | Year published | Methodology notes | Reliability assessment |
+| 估算数值 | 来源 | 类型 | 发布年份 | 方法说明 | 可信度评估 |
 |---|---|---|---|---|---|
-| *pending* | *pending* | official / independent / academic / press | *pending* | *pending* | *pending* |
+| *待补充* | *待补充* | 官方 / 独立 / 学术 / 媒体 | *待补充* | *待补充* | *待补充* |
 
-## Other planned data
+## 其他拟设数据
 
-- **Rainfall records** from meteorological stations in the affected basin
-  during the storm period.
-- **River-flow and reservoir data** from hydrological and reservoir operation
-  records.
-- **Reservoir engineering specifications** (design capacity, spillway
-  capacity, construction period) for the Banqiao Dam and other reservoirs
-  involved.
-- **Affected area and population** figures, sourced separately from casualty
-  estimates, since the two are often conflated in secondary accounts.
+- **降雨记录**——灾害期间受灾流域内气象站的降雨数据。
+- **河流流量与水库数据**——来自水文记录及水库运行日志。
+- **水库工程参数**——板桥水库及其他相关水库的设计库容、泄洪能力、建设时期等信息。
+- **受灾面积与人口数据**——与伤亡估算分开单独标注来源，因为二者在二手材料中经常
+  被混为一谈。

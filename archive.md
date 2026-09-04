@@ -1,48 +1,39 @@
 ---
 layout: default
-title: Archive
-subtitle: Primary documents, catalogued with provenance
+title: 档案
+subtitle: 附有来源标注的原始文献
 permalink: /archive/
-lang: en
-alt_url: /zh/archive/
-description: A catalog of primary documents on the 1975 Banqiao Dam disaster — engineering reports, administrative records, meteorological data, and correspondence.
+lang: zh
+alt_url: /en/archive/
+description: 一份关于1975年板桥水库溃坝事件的原始文献目录——工程报告、行政记录、气象数据与往来函件。
 ---
 
-This section catalogs primary documents as they are located, digitized, and
-verified. Every entry will list its source repository or collection, date,
-original language, and a note on how it was obtained. See
-<a href="{{ '/methodology/' | relative_url }}">Sources &amp; Methodology</a>
-for how documents are vetted before they appear here.
+本节将随着文献的查找、数字化与核实工作逐步收录原始文献目录。每一条目都将标注其
+所属档案机构或收藏、日期、原始语言，以及获取方式说明。文献在收录前的核实流程，
+详见<a href="{{ '/methodology/' | relative_url }}">《史料与方法》</a>。
 
 <div class="pending">
-No catalog entries are published yet. This section will populate as documents
-clear the verification process described in the methodology.
+目前尚无已发布的目录条目。本节将随着文献通过上述核实流程逐步充实。
 </div>
 
-## Planned categories
+## 拟设分类
 
-- **Engineering and hydrological reports** &mdash; dam design, construction,
-  and post-failure technical investigations.
-- **Government and administrative records** &mdash; internal reports,
-  directives, and correspondence from the period and its aftermath.
-- **Meteorological and hydrological data** &mdash; rainfall gauges, river-flow
-  records, and reservoir operation logs.
-- **Contemporary press** &mdash; domestic and international reporting from the
-  period, catalogued as press material, not treated as primary fact.
-- **Reconstruction and resettlement records** &mdash; administrative material
-  from the post-disaster rebuilding period.
+- **工程与水文报告**——水库设计、施工，以及溃坝后的技术调查。
+- **政府与行政记录**——相关时期及事后的内部报告、指示与往来函件。
+- **气象与水文数据**——雨量站记录、河流流量记录，以及水库运行日志。
+- **同时期媒体报道**——国内外相关时期的报道，将作为媒体材料收录，而非视为原始事实。
+- **重建与安置记录**——灾后重建时期的行政材料。
 
-## Document entry format
+## 文献条目格式
 
-Each catalog entry will follow a consistent structure so provenance is never
-separated from the material itself:
+每条目录都将采用统一结构，确保来源信息始终与材料本身一并呈现：
 
-| Field | Description |
+| 字段 | 说明 |
 |---|---|
-| Title | Working title or original document title |
-| Date | Date of the original document |
-| Type | Category (see above) |
-| Language | Original language; translation notice if applicable |
-| Source | Repository, collection, or provider |
-| Status | Located / digitized / translated / verified |
-| Notes | Confidence notes, gaps, or context needed to read the document |
+| 标题 | 工作标题或原始文献标题 |
+| 日期 | 原始文献的日期 |
+| 类型 | 见上述分类 |
+| 语言 | 原始语言；如有翻译，另加说明 |
+| 来源 | 档案机构、收藏或提供者 |
+| 状态 | 已查找 / 已数字化 / 已翻译 / 已核实 |
+| 备注 | 可信度说明、材料缺失情况，或阅读该文献所需的背景信息 |
