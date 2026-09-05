@@ -22,8 +22,20 @@ information and a brief summary only, not reproduced text — see
 | Title | Author | Platform | Publish date | Summary | Rights status |
 |---|---|---|---|---|---|
 | <a href="https://junshuyuan.blogspot.com/2010/08/blog-post.html">"板桥溃坝三十五年祭" ("A Thirty-Five Year Remembrance of the Banqiao Dam Collapse")</a> (<a href="http://web.archive.org/web/20260905163111/https://junshuyuan.blogspot.com/2010/08/blog-post.html">archived copy</a>) | Jun Shuyuan (君淑苑, blog handle; relationship to the event not fully confirmed &mdash; the post itself reads as a first-hand account) | Blogspot (personal blog) | Aug 23, 2010 | The blogger's own first-hand recollection of the 1975 Henan flood, describing her and her family's experience during the disaster; specific details are still to be verified and filled in | Cited only |
+| <a href="https://www.sanxiatansuo.com/index.html?index=view&vid=794">"A Family's Account of Witnessing the '75.8' Banqiao Reservoir Disaster," Part 1: "My Water Story: 'The Lake'"</a> | Kuang Jie (匡洁) | 三峡探索 (Three Gorges Probe / Probe International) | July 10, 2014 | Part 1 of a three-part series; Kuang Jie's own first-hand recollection of the 1975 Banqiao Reservoir disaster; specific content is still to be verified and filled in | Cited only |
+| <a href="https://www.sanxiatansuo.com/index.html?index=view&vid=803">"A Family's Account of Witnessing the '75.8' Banqiao Reservoir Disaster," Part 2: "Remembering the Collapse of Henan's Banqiao Reservoir"</a> | Wang Youshi (王又石) | 三峡探索 (Three Gorges Probe / Probe International) | July 15, 2014 | Part 2 of the same series; Wang Youshi's own first-hand recollection of the Banqiao Reservoir collapse; specific content is still to be verified and filled in | Cited only |
+| <a href="https://www.sanxiatansuo.com/index.html?index=view&vid=812">"A Family's Account of Witnessing the '75.8' Banqiao Reservoir Disaster," Part 3: "The Banqiao Reservoir Failure I Experienced"</a> | Kuang Li (匡立) | 三峡探索 (Three Gorges Probe / Probe International) | July 21, 2014 | Part 3 of the same series; Kuang Li's own first-hand recollection of the Banqiao Reservoir failure; specific content is still to be verified and filled in | Cited only |
 
-*Accessed/archived: Sept 5, 2026.*
+*Accessed/archived: Sept 5, 2026. 三峡探索 (Three Gorges Probe / Probe
+International) is published by a Canadian environmental NGO with a
+long-standing, explicit advocacy position critical of large Chinese dam
+projects. These three pieces are included solely because they are
+first-hand accounts from members of the same family &mdash; listing them
+does not imply endorsement of the publisher's other content or overall
+position. The site loads page content via client-side scripting, and
+automated archiving (Wayback Machine) could not be confirmed successful;
+the original links were each confirmed accessible at the time of
+cataloging.*
 
 ## Entry format
 

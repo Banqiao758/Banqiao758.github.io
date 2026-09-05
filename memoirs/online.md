@@ -19,8 +19,15 @@ description: 发布于网络的回忆文章目录，附原始链接及存档链�
 | 标题 | 作者 | 平台 | 发布日期 | 内容提要 | 权利状态 |
 |---|---|---|---|---|---|
 | <a href="https://junshuyuan.blogspot.com/2010/08/blog-post.html">板桥溃坝三十五年祭</a>（<a href="http://web.archive.org/web/20260905163111/https://junshuyuan.blogspot.com/2010/08/blog-post.html">存档链接</a>） | 君淑苑（博主网名，与事件关系待考——据博文内容为亲历者本人） | Blogspot个人博客 | 2010年8月23日 | 博主本人对1975年河南水灾的亲历回忆，记述其与家人在灾害期间的经历，具体细节尚待核实与补充 | 仅注明出处 |
+| <a href="https://www.sanxiatansuo.com/index.html?index=view&vid=794">一个家庭的"75·8"板桥水库灾难见闻 之一：我的水故事："湖"</a> | 匡洁 | 三峡探索（Probe International） | 2014年7月10日 | 系列三篇之一，匡洁本人对1975年板桥水库灾难的亲历回忆，具体内容尚待核实与补充 | 仅注明出处 |
+| <a href="https://www.sanxiatansuo.com/index.html?index=view&vid=803">一个家庭的"75·8"板桥水库灾难见闻 之二：忆河南板桥水库垮坝</a> | 王又石 | 三峡探索（Probe International） | 2014年7月15日 | 系列三篇之二，王又石本人对板桥水库垮坝的亲历回忆，具体内容尚待核实与补充 | 仅注明出处 |
+| <a href="https://www.sanxiatansuo.com/index.html?index=view&vid=812">一个家庭的"75·8"板桥水库灾难见闻 之三：我所经历的板桥水库溃坝</a> | 匡立 | 三峡探索（Probe International） | 2014年7月21日 | 系列三篇之三，匡立本人对板桥水库溃坝的亲历回忆，具体内容尚待核实与补充 | 仅注明出处 |
 
-*访问/存档日期：2026年9月5日。*
+*访问/存档日期：2026年9月5日。三峡探索（Probe International）为加拿大环保
+非政府组织主办的网站，长期关注并批评中国大型水利工程，具有明确的倡导立场；
+此处收录三篇文章仅因其为同一家庭成员各自的第一手亲历记述，不代表本站认同该
+机构其他内容或整体立场。该网站页面内容通过前端脚本动态加载，自动存档工具
+（Wayback Machine）未能确认存档成功；原始链接均已于收录时确认可正常访问。*
 
 ## 条目格式
 
