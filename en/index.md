@@ -51,11 +51,6 @@ description: An independent, primary-source research archive on the August 1975 
     records, meteorological and hydrological data, and contemporaneous
     correspondence.</p>
   </a>
-  <a class="card" href="{{ '/en/interviews/' | relative_url }}">
-    <h2>Interviews</h2>
-    <p>Oral history from survivors, engineers, and local officials, recorded and
-    processed under an explicit consent and anonymization protocol.</p>
-  </a>
   <a class="card" href="{{ '/en/photographs/' | relative_url }}">
     <h2>Photographs</h2>
     <p>Photographic documentation with full provenance: source, date, location,

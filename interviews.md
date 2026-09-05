@@ -3,6 +3,7 @@ layout: default
 title: 口述访谈
 subtitle: 在明确知情同意流程下采集与审核的口述历史
 permalink: /interviews/
+published: false
 lang: zh
 alt_url: /en/interviews/
 description: 与1975年板桥水库溃坝事件相关的幸存者、工程技术人员及前官员的口述历史访谈。
