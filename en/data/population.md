@@ -1,30 +1,25 @@
 ---
 layout: default
 title: Population
-subtitle: Data & Statistics · Affected population and casualty estimates
+subtitle: Data & Statistics · Affected population and casualty estimates by county
 permalink: /en/data/population/
 lang: en
 alt_url: /data/population/
-description: A sourced comparison of affected-population and casualty estimates for the 1975 Banqiao Dam disaster.
+description: Affected-population and casualty estimates organized by county, each sourced.
 ---
 
-A sourced comparison of casualty and affected-population estimates, by
-source, method, and reliability.
+A sourced comparison of casualty and affected-population estimates,
+organized as one page per county. County boundaries follow local
+gazetteers such as 《驻马店地区758抗洪志》.
 
-## Casualty and damage estimates (planned format)
-
-<div class="pending">
-No entries are published yet. Rows will be added only once a source and its
-methodology can be stated in full — see
-<a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>.
-</div>
-
-| Estimate | Source | Type | Year published | Methodology notes | Reliability assessment |
-|---|---|---|---|---|---|
-| *pending* | *pending* | official / independent / academic / press | *pending* | *pending* | *pending* |
-
-## Planned additions
-
-- **Affected-population figures** &mdash; sourced separately from casualty
-  estimates, since the two are often conflated in secondary accounts
-  (pending).
+<section class="section-grid">
+  <a class="card" href="{{ '/en/data/population/shangcai/' | relative_url }}"><h2>Shangcai County</h2></a>
+  <a class="card" href="{{ '/en/data/population/suiping/' | relative_url }}"><h2>Suiping County</h2></a>
+  <a class="card" href="{{ '/en/data/population/xincai/' | relative_url }}"><h2>Xincai County</h2></a>
+  <a class="card" href="{{ '/en/data/population/runan/' | relative_url }}"><h2>Runan County</h2></a>
+  <a class="card" href="{{ '/en/data/population/biyang/' | relative_url }}"><h2>Biyang County</h2></a>
+  <a class="card" href="{{ '/en/data/population/queshan/' | relative_url }}"><h2>Queshan County</h2></a>
+  <a class="card" href="{{ '/en/data/population/xiping/' | relative_url }}"><h2>Xiping County</h2></a>
+  <a class="card" href="{{ '/en/data/population/wugang/' | relative_url }}"><h2>Wugang City</h2></a>
+  <a class="card" href="{{ '/en/data/population/huaibin/' | relative_url }}"><h2>Huaibin County</h2></a>
+</section>

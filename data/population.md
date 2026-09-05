@@ -1,27 +1,24 @@
 ---
 layout: default
 title: 人口
-subtitle: 数据与统计 · 受灾人口与伤亡估算
+subtitle: 数据与统计 · 按县分列的受灾人口与伤亡估算
 permalink: /data/population/
 lang: zh
 alt_url: /en/data/population/
-description: 与1975年板桥水库溃坝事件相关的受灾人口及伤亡估算比较，均注明来源与方法。
+description: 按县分列的受灾人口与伤亡估算比较，均注明来源与方法。
 ---
 
-人员伤亡与受灾人口的估算比较，逐一标注来源、方法与可信度。
+人员伤亡与受灾人口的估算比较，按县分页收录，逐一标注来源、方法与可信度。县份
+划分依据《驻马店地区758抗洪志》等地方志资料。
 
-## 伤亡与损失估算（拟设格式）
-
-<div class="pending">
-目前尚无已发布条目。每项估算收录前需完整说明来源、发布年份与方法，详见
-<a href="{{ '/methodology/' | relative_url }}">《史料与方法》</a>。
-</div>
-
-| 估算数值 | 来源 | 类型 | 发布年份 | 方法说明 | 可信度评估 |
-|---|---|---|---|---|---|
-| *待补充* | *待补充* | 官方 / 独立 / 学术 / 媒体 | *待补充* | *待补充* | *待补充* |
-
-## 拟设内容
-
-- **受灾人口数据**——与伤亡估算分开单独标注来源，因为二者在二手材料中经常被混为
-  一谈（待补充）。
+<section class="section-grid">
+  <a class="card" href="{{ '/data/population/shangcai/' | relative_url }}"><h2>上蔡县</h2></a>
+  <a class="card" href="{{ '/data/population/suiping/' | relative_url }}"><h2>遂平县</h2></a>
+  <a class="card" href="{{ '/data/population/xincai/' | relative_url }}"><h2>新蔡县</h2></a>
+  <a class="card" href="{{ '/data/population/runan/' | relative_url }}"><h2>汝南县</h2></a>
+  <a class="card" href="{{ '/data/population/biyang/' | relative_url }}"><h2>泌阳县</h2></a>
+  <a class="card" href="{{ '/data/population/queshan/' | relative_url }}"><h2>确山县</h2></a>
+  <a class="card" href="{{ '/data/population/xiping/' | relative_url }}"><h2>西平县</h2></a>
+  <a class="card" href="{{ '/data/population/wugang/' | relative_url }}"><h2>舞钢市</h2></a>
+  <a class="card" href="{{ '/data/population/huaibin/' | relative_url }}"><h2>淮滨县</h2></a>
+</section>

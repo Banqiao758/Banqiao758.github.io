@@ -1,25 +1,25 @@
 ---
 layout: default
 title: Economy
-subtitle: Data & Statistics · Economic loss and reconstruction investment
+subtitle: Data & Statistics · Economic loss and reconstruction investment by county
 permalink: /en/data/economy/
 lang: en
 alt_url: /data/economy/
-description: Economic loss and reconstruction investment data related to the 1975 Banqiao Dam disaster, each sourced.
+description: Economic loss and reconstruction investment data organized by county, each sourced.
 ---
 
-Affected farmland, property loss, and reconstruction investment.
+Affected farmland, property loss, and reconstruction investment,
+organized as one page per county. County boundaries follow local
+gazetteers such as 《驻马店地区758抗洪志》.
 
-<div class="pending">
-No entries published yet.
-</div>
-
-## Planned additions
-
-- **Affected farmland and property-loss data** &mdash; direct economic
-  losses to housing, farmland, and infrastructure (pending).
-- **Reconstruction investment data** &mdash; e.g. the multi-level government
-  funding breakdown for Tiangang Reservoir's reconstruction, see the
-  comparison table under
-  <a href="{{ '/en/data/engineering/' | relative_url }}">Engineering</a>
-  above.
+<section class="section-grid">
+  <a class="card" href="{{ '/en/data/economy/shangcai/' | relative_url }}"><h2>Shangcai County</h2></a>
+  <a class="card" href="{{ '/en/data/economy/suiping/' | relative_url }}"><h2>Suiping County</h2></a>
+  <a class="card" href="{{ '/en/data/economy/xincai/' | relative_url }}"><h2>Xincai County</h2></a>
+  <a class="card" href="{{ '/en/data/economy/runan/' | relative_url }}"><h2>Runan County</h2></a>
+  <a class="card" href="{{ '/en/data/economy/biyang/' | relative_url }}"><h2>Biyang County</h2></a>
+  <a class="card" href="{{ '/en/data/economy/queshan/' | relative_url }}"><h2>Queshan County</h2></a>
+  <a class="card" href="{{ '/en/data/economy/xiping/' | relative_url }}"><h2>Xiping County</h2></a>
+  <a class="card" href="{{ '/en/data/economy/wugang/' | relative_url }}"><h2>Wugang City</h2></a>
+  <a class="card" href="{{ '/en/data/economy/huaibin/' | relative_url }}"><h2>Huaibin County</h2></a>
+</section>
