@@ -17,9 +17,21 @@ primary sources; uncorroborated claims are explicitly flagged as such. See
 <a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>
 for the standard used to vet entries.
 
-<div class="pending">
-No entries published yet.
-</div>
+## Published entries
+
+| Title | Outlet/Source | Publish date | Corroboration | Rights status |
+|---|---|---|---|---|
+| <a href="https://www.gmw.cn/01ds/2000-11/15/GB/2000%5E326%5E0%5EDS2306.htm">"惊心动魄的七五八大洪水" ("The Harrowing '758' Great Flood")</a> | Guangming Net / 《中华读书报》(China Reading Weekly) | Nov 15, 2000 | Not yet individually verified | Cited only |
+| <a href="http://jishi.cntv.cn/shehuinengjiandu/classpage/video/20120824/100398.shtml">《社会能见度》"七五·八警示录" (documentary segment)</a> | China Network Television (CCTV documentary channel) | Aug 23, 2012 | Not yet individually verified | Cited only |
+| <a href="https://www.cntv.cn/program/jzql/topic/history/C15481/02/index.shtml">CCTV History Channel: Recalling the "75.8" Flood</a> | China Network Television (CCTV) | Not stated | Not yet individually verified | Cited only |
+| <a href="https://qnck.cyol.com/content/2007-08/28/content_1874346.htm">"Inside the Central Government's Emergency Rescue of Zhumadian's Flood"</a> | China Youth Daily / cyol.com | Aug 28, 2007 | Not yet individually verified | Cited only |
+| <a href="https://epaper.gmw.cn/wzb/html/2012-08/28/nw.D110000wzb_20120828_2-08.htm">"A Witness's Memory of '75.8'"</a> | Guangming Net / 《文摘报》(Digest News) | Aug 28, 2012 | Not yet individually verified; the title suggests a first-hand witness account, worth checking and possibly moving to Personal Records &gt; Online instead | Cited only |
+| <a href="http://www.hntv.tv/yshn/article/1/1381910353029500928?source=mobile">"Visiting Wugang's Shimantan Reservoir, the 'First Dam of Huai River Harnessing'"</a> | Henan Radio and Television | c. 2021 (part of the CCP centenary "奋斗百年路 启航新征程" series) | Not yet individually verified | Cited only |
+
+*These links were confirmed accessible at the time of cataloging. Being from
+a credible outlet does not mean every factual claim in a given piece
+(especially casualty figures) has been verified &mdash; each still needs to
+be checked against the standard in Sources &amp; Methodology before citing.*
 
 ## Entry format
 
