@@ -27,8 +27,14 @@ for the standard used to vet entries.
 | <a href="https://qnck.cyol.com/content/2007-08/28/content_1874346.htm">"Inside the Central Government's Emergency Rescue of Zhumadian's Flood"</a> | China Youth Daily / cyol.com | Aug 28, 2007 | Not yet individually verified | Cited only |
 | <a href="https://epaper.gmw.cn/wzb/html/2012-08/28/nw.D110000wzb_20120828_2-08.htm">"A Witness's Memory of '75.8'"</a> | Guangming Net / 《文摘报》(Digest News) | Aug 28, 2012 | Not yet individually verified; the title suggests a first-hand witness account, worth checking and possibly moving to Personal Records &gt; Online instead | Cited only |
 | <a href="http://www.hntv.tv/yshn/article/1/1381910353029500928?source=mobile">"Visiting Wugang's Shimantan Reservoir, the 'First Dam of Huai River Harnessing'"</a> | Henan Radio and Television | c. 2021 (part of the CCP centenary "奋斗百年路 启航新征程" series) | Not yet individually verified | Cited only |
+| Li Jinming, "Agricultural Minister Sha Feng in the Fight Against Zhumadian's '75.8' Flood Disaster" | Originally published in 《党史博览》(Party History Overview), Issue 6, 2023; <a href="https://m.hswh.org.cn/wzzx/llyd/ls/2023-09-28/84093.html">this link is a reposted copy on 红色文化网 (hswh.org.cn, "Red Culture Net")</a> | Reposted Sept 29, 2023 (original in 2023 Issue 6) | Sha Feng served as Minister of Agriculture and Forestry; per this site's <a href="{{ '/en/archive/1975-central-condolence-telegrams/' | relative_url }}">Central condolence telegrams</a> personnel list, he was one of the central delegation's deputy heads, confirming the piece's relevance. Specific factual details are not yet individually verified | Cited only |
 
-*These links were confirmed accessible at the time of cataloging. Being from
+*红色文化网 (hswh.org.cn) is a commentary site with a distinct ideological
+stance; it's noted here only as the source where this repost was found —
+readers should treat the original 《党史博览》 publication as authoritative.
+Listing this link does not imply endorsement of the hosting site's broader
+positions or other content. These links were confirmed accessible at the
+time of cataloging. Being from
 a credible outlet does not mean every factual claim in a given piece
 (especially casualty figures) has been verified &mdash; each still needs to
 be checked against the standard in Sources &amp; Methodology before citing.*
