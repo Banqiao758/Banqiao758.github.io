@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Online memories
-subtitle: Memoirs · Online memories
+subtitle: Personal Records · Online memories
 permalink: /en/memoirs/online/
 lang: en
 alt_url: /memoirs/online/

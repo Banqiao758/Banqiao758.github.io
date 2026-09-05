@@ -89,7 +89,7 @@ does, regardless of research purpose. Material is instead handled by tier:
   via <a href="{{ '/en/contact/' | relative_url }}">Contact</a>, but is not
   published as a downloadable file.
 
-Every entry in the <a href="{{ '/en/archive/' | relative_url }}">Archive</a>
+Every entry in the <a href="{{ '/en/archive/' | relative_url }}">Official Archive</a>
 carries a rights status noting which of these applies, so a reader always
 knows why something is &mdash; or isn't &mdash; available to download here.
 

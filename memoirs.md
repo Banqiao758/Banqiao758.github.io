@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 回忆录
+title: 个人记录
 subtitle: 已出版与网络发布的回忆
 permalink: /memoirs/
 lang: zh

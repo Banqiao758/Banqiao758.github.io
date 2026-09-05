@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Published Memoirs
-subtitle: Memoirs · Published
+title: Published Personal Records
+subtitle: Personal Records · Published
 permalink: /en/memoirs/published/
 lang: en
 alt_url: /memoirs/published/
-description: A catalog of published memoirs by reporters, engineers, administrators, and disaster-affected residents, citation only — no reproduced text.
+description: A catalog of published personal records by reporters, engineers, administrators, and disaster-affected residents, citation only — no reproduced text.
 ---
 
-Published memoirs by reporters, engineers, administrators, and
+Published personal records by reporters, engineers, administrators, and
 disaster-affected residents. This section holds bibliographic information
 and brief descriptions only, not reproduced text — see
 <a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Archive
+title: Official Archive
 subtitle: Primary documents, catalogued with provenance
 permalink: /en/archive/
 lang: en

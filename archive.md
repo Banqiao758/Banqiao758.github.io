@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 档案
+title: 官方档案
 subtitle: 附有来源标注的原始文献
 permalink: /archive/
 lang: zh

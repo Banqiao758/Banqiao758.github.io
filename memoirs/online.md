@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 网络回忆
-subtitle: 回忆录 · 网络回忆
+subtitle: 个人记录 · 网络回忆
 permalink: /memoirs/online/
 lang: zh
 alt_url: /en/memoirs/online/

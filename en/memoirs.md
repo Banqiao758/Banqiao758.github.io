@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Memoirs
+title: Personal Records
 subtitle: Published and online memories
 permalink: /en/memoirs/
 lang: en

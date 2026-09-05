@@ -46,7 +46,7 @@ description: An independent, primary-source research archive on the August 1975 
 
 <section class="section-grid">
   <a class="card" href="{{ '/en/archive/' | relative_url }}">
-    <h2>Archive</h2>
+    <h2>Official Archive</h2>
     <p>Primary documents: engineering and technical reports, administrative
     records, meteorological and hydrological data, and contemporaneous
     correspondence.</p>
@@ -57,9 +57,9 @@ description: An independent, primary-source research archive on the August 1975 
     and rights information for every image.</p>
   </a>
   <a class="card" href="{{ '/en/memoirs/' | relative_url }}">
-    <h2>Memoirs</h2>
-    <p>A catalog of published memoirs by reporters, engineers, administrators,
-    and disaster-affected residents.</p>
+    <h2>Personal Records</h2>
+    <p>A catalog of published personal records by reporters, engineers,
+    administrators, and disaster-affected residents.</p>
   </a>
   <a class="card" href="{{ '/en/data/' | relative_url }}">
     <h2>Data &amp; Statistics</h2>
