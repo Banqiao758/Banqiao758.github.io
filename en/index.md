@@ -51,15 +51,15 @@ description: An independent, primary-source research archive on the August 1975 
     records, meteorological and hydrological data, and contemporaneous
     correspondence.</p>
   </a>
-  <a class="card" href="{{ '/en/photographs/' | relative_url }}">
-    <h2>Photographs</h2>
-    <p>Photographic documentation with full provenance: source, date, location,
-    and rights information for every image.</p>
-  </a>
   <a class="card" href="{{ '/en/memoirs/' | relative_url }}">
     <h2>Personal Records</h2>
     <p>A catalog of published personal records by reporters, engineers,
     administrators, and disaster-affected residents.</p>
+  </a>
+  <a class="card" href="{{ '/en/photographs/' | relative_url }}">
+    <h2>Photographs</h2>
+    <p>Photographic documentation with full provenance: source, date, location,
+    and rights information for every image.</p>
   </a>
   <a class="card" href="{{ '/en/data/' | relative_url }}">
     <h2>Data &amp; Statistics</h2>
