@@ -1,37 +1,28 @@
 ---
 layout: default
 title: Data & Statistics
-subtitle: Rainfall, engineering, and casualty data — presented with sourcing, not asserted
+subtitle: Organized by engineering, meteorology, population, and economy — sourced, not asserted
 permalink: /en/data/
 lang: en
 alt_url: /data/
-description: Rainfall, reservoir engineering, and casualty estimate data on the 1975 Banqiao Dam disaster, compared across sources.
+description: Data on the 1975 Banqiao Dam disaster organized into four categories — engineering, meteorology, population, and economy — each sourced and methodology-noted.
 ---
 
-Casualty and damage figures for this event are the most politically charged
-and least consistent part of the public record: estimates in circulation span
-an extremely wide range, depending on who compiled them, when, from what
-records, and under what political constraints. This project will not publish
-a single headline number. Instead, this page will present a **comparison
-table** of estimates, each tied to a named source, a publication date, and a
-methodology note, so a reader can judge the estimate rather than take it on
-faith.
-
-<div class="pending">
-No entries are published yet. Rows will be added only once a source and its
-methodology can be stated in full &mdash; see
+This page organizes data related to the disaster into four categories:
+**engineering, meteorology, population, and economy**. Casualty and damage
+estimates, under Population, are the most politically charged and least
+consistent part of the public record: estimates in circulation span an
+extremely wide range, depending on who compiled them, when, from what
+records, and under what political constraints. This project will not
+publish a single headline number; every entry must state its source,
+publication year, and methodology before it's added. See
 <a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>.
-No unverified figure will be published here, including ranges commonly seen
-elsewhere online.
-</div>
 
-## Casualty and damage estimates (planned format)
+## Engineering
 
-| Estimate | Source | Type | Year published | Methodology notes | Reliability assessment |
-|---|---|---|---|---|---|
-| *pending* | *pending* | official / independent / academic / press | *pending* | *pending* | *pending* |
+Reservoir design, construction specifications, and discharge capacity.
 
-## Tiangang Reservoir engineering specifications (1958 original vs. 2002 reconstruction)
+### Tiangang Reservoir engineering specifications (1958 original vs. 2002 reconstruction)
 
 Tiangang Reservoir sits immediately downstream of Shimantan Reservoir and
 failed in turn after Shimantan breached on August 8, 1975. Reconstruction
@@ -61,14 +52,60 @@ controlled catchment area between the two periods (75 km&sup2; vs. 305
 km&sup2;) may reflect a redefinition of the catchment boundary rather than
 a physical change, but this hasn't been confirmed.*
 
-## Other planned data
+### Planned additions
 
-- **Rainfall records** from meteorological stations in the affected basin
-  during the storm period.
-- **River-flow and reservoir data** from hydrological and reservoir operation
-  records.
-- **Reservoir engineering specifications** (design capacity, spillway
-  capacity, construction period) for the Banqiao Dam and other reservoirs
-  involved.
-- **Affected area and population** figures, sourced separately from casualty
-  estimates, since the two are often conflated in secondary accounts.
+- **Engineering specifications for other reservoirs** &mdash; design
+  capacity, spillway capacity, and construction period for the Banqiao Dam
+  and other reservoirs involved (pending).
+- **River-flow and reservoir operation records** &mdash; from hydrological
+  records and reservoir operation logs (pending).
+
+## Meteorology
+
+Rainfall and typhoon records.
+
+<div class="pending">
+No entries published yet. This will include rainfall records from
+meteorological stations in the affected basin during the storm period, and
+track/intensity data for Typhoon "7503."
+</div>
+
+## Population
+
+A sourced comparison of casualty and affected-population estimates &mdash;
+by source, method, and reliability &mdash; rather than a single accepted
+number.
+
+### Casualty and damage estimates (planned format)
+
+<div class="pending">
+No entries are published yet. Rows will be added only once a source and its
+methodology can be stated in full. No unverified figure will be published
+here, including ranges commonly seen elsewhere online.
+</div>
+
+| Estimate | Source | Type | Year published | Methodology notes | Reliability assessment |
+|---|---|---|---|---|---|
+| *pending* | *pending* | official / independent / academic / press | *pending* | *pending* | *pending* |
+
+### Planned additions
+
+- **Affected-population figures** &mdash; sourced separately from casualty
+  estimates, since the two are often conflated in secondary accounts
+  (pending).
+
+## Economy
+
+Affected farmland, property loss, and reconstruction investment.
+
+<div class="pending">
+No entries published yet.
+</div>
+
+### Planned additions
+
+- **Affected farmland and property-loss data** &mdash; direct economic
+  losses to housing, farmland, and infrastructure (pending).
+- **Reconstruction investment data** &mdash; e.g. the multi-level government
+  funding breakdown for Tiangang Reservoir's reconstruction, see the
+  comparison table under Engineering above.
