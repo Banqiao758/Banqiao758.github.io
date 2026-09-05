@@ -17,7 +17,7 @@ for how documents are vetted and rights are assessed before they appear here.
 
 ## Published documents
 
-These seven documents were digitized and proofread by the researcher from
+These eight documents were digitized and proofread by the researcher from
 their original sources. They are presented in the original Chinese, as
 primary sources — no full English translation has been made; titles below
 are working glosses for navigation, not official translations.
@@ -26,6 +26,7 @@ are working glosses for navigation, not official translations.
 |---|---|---|---|---|
 | <a href="{{ '/archive/1975-li-xiannian-farmland-symposium-speech/' | relative_url }}">Vice Premier Li Xiannian's speech at the National Farmland Capital Construction Symposium (abridged transcript)</a> (Chinese) | Li Xiannian (Vice Premier, State Council) | Aug 11, 1975 | Transcript of a central leader's remarks | Reproduced in full |
 | <a href="{{ '/archive/1975-central-condolence-telegrams/' | relative_url }}">Central condolence telegrams, with the provincial committee's condolence letter, the central delegation's rally record, and personnel lists</a> (Chinese) | CPC Central Committee et al. (multiple issuing bodies; see full text) | Aug 9&ndash;15, 1975 | Party/government communications, public proceedings record | Reproduced in full |
+| <a href="{{ '/archive/1975-wuyang-shimantan-tiangang-failure-report/' | relative_url }}">CPC Henan Wuyang Industrial District Working Committee: Report on the Failure of the Shimantan and Tiangang Reservoirs</a> (Chinese) | CPC Henan Wuyang Industrial District Working Committee | Sept 4, 1975 | Party/government incident report | Reproduced in full |
 | <a href="{{ '/archive/1980-banqiao-shimantan-lessons-report/' | relative_url }}">Henan Provincial Water Resources Department Party Group: Report on the Lessons of the "75.8" Failure of the Banqiao and Shimantan Reservoirs</a> (Chinese) | Party Group, Henan Provincial Water Resources Department | Nov 3, 1980 (transmitted Sept 15, 1982) | Internal party/government technical investigation report | Reproduced in full |
 | <a href="{{ '/archive/1975-national-flood-conference-opening-address/' | relative_url }}">National Flood Prevention and Reservoir Safety Conference: Opening Address (abridged)</a> (Chinese) | Qian Zhengying (Minister, Ministry of Water Resources and Electric Power) | Nov 25, 1975 | Government conference opening address | Reproduced in full |
 | <a href="{{ '/archive/1975-national-flood-conference-summary-report/' | relative_url }}">National Flood Prevention and Reservoir Safety Conference: Summary Report (abridged transcript)</a> (Chinese) | Qian Zhengying (Minister, Ministry of Water Resources and Electric Power) | Dec 10, 1975 | Government conference summary report | Reproduced in full |
