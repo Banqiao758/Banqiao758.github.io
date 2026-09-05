@@ -44,9 +44,9 @@ description: 一个基于原始史料的独立研究档案库，记录1975年8�
     <h2>个人记录</h2>
     <p>记者、工程技术人员、行政管理人员与受灾群众所著已出版个人记录目录。</p>
   </a>
-  <a class="card" href="{{ '/photographs/' | relative_url }}">
-    <h2>影像资料</h2>
-    <p>附有完整来源信息的影像记录：来源、日期、地点与版权信息一应俱全。</p>
+  <a class="card" href="{{ '/media/' | relative_url }}">
+    <h2>媒体报道</h2>
+    <p>同时期国内外媒体报道，作为媒体材料收录，须经印证方可支持具体陈述。</p>
   </a>
   <a class="card" href="{{ '/data/' | relative_url }}">
     <h2>数据与统计</h2>

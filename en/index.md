@@ -56,10 +56,10 @@ description: An independent, primary-source research archive on the August 1975 
     <p>A catalog of published personal records by reporters, engineers,
     administrators, and disaster-affected residents.</p>
   </a>
-  <a class="card" href="{{ '/en/photographs/' | relative_url }}">
-    <h2>Photographs</h2>
-    <p>Photographic documentation with full provenance: source, date, location,
-    and rights information for every image.</p>
+  <a class="card" href="{{ '/en/media/' | relative_url }}">
+    <h2>Media Reports</h2>
+    <p>Contemporaneous domestic and international media coverage, catalogued
+    as press material and used only once corroborated.</p>
   </a>
   <a class="card" href="{{ '/en/data/' | relative_url }}">
     <h2>Data &amp; Statistics</h2>
