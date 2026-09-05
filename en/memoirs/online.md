@@ -17,9 +17,13 @@ archived copy alongside the original URL. This section holds source
 information and a brief summary only, not reproduced text — see
 <a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>.
 
-<div class="pending">
-No entries published yet.
-</div>
+## Published entries
+
+| Title | Author | Platform | Publish date | Summary | Rights status |
+|---|---|---|---|---|---|
+| <a href="https://junshuyuan.blogspot.com/2010/08/blog-post.html">"板桥溃坝三十五年祭" ("A Thirty-Five Year Remembrance of the Banqiao Dam Collapse")</a> (<a href="http://web.archive.org/web/20260905163111/https://junshuyuan.blogspot.com/2010/08/blog-post.html">archived copy</a>) | Jun Shuyuan (君淑苑, blog handle; relationship to the event not fully confirmed &mdash; the post itself reads as a first-hand account) | Blogspot (personal blog) | Aug 23, 2010 | The blogger's own first-hand recollection of the 1975 Henan flood, describing her and her family's experience during the disaster; specific details are still to be verified and filled in | Cited only |
+
+*Accessed/archived: Sept 5, 2026.*
 
 ## Entry format
 
