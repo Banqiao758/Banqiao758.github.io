@@ -61,6 +61,11 @@ description: An independent, primary-source research archive on the August 1975 
     <p>Photographic documentation with full provenance: source, date, location,
     and rights information for every image.</p>
   </a>
+  <a class="card" href="{{ '/en/memoirs/' | relative_url }}">
+    <h2>Memoirs</h2>
+    <p>A catalog of published memoirs by reporters, engineers, administrators,
+    and disaster-affected residents.</p>
+  </a>
   <a class="card" href="{{ '/en/data/' | relative_url }}">
     <h2>Data &amp; Statistics</h2>
     <p>Rainfall and reservoir engineering data, and a sourced comparison of
