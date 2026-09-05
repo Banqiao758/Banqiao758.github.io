@@ -22,6 +22,7 @@ description: 发布于网络的回忆文章目录，附原始链接及存档链�
 | <a href="https://www.sanxiatansuo.com/index.html?index=view&vid=794">一个家庭的"75·8"板桥水库灾难见闻 之一：我的水故事："湖"</a> | 匡洁 | 三峡探索（Probe International） | 2014年7月10日 | 系列三篇之一，匡洁本人对1975年板桥水库灾难的亲历回忆，具体内容尚待核实与补充 | 仅注明出处 |
 | <a href="https://www.sanxiatansuo.com/index.html?index=view&vid=803">一个家庭的"75·8"板桥水库灾难见闻 之二：忆河南板桥水库垮坝</a> | 王又石 | 三峡探索（Probe International） | 2014年7月15日 | 系列三篇之二，王又石本人对板桥水库垮坝的亲历回忆，具体内容尚待核实与补充 | 仅注明出处 |
 | <a href="https://www.sanxiatansuo.com/index.html?index=view&vid=812">一个家庭的"75·8"板桥水库灾难见闻 之三：我所经历的板桥水库溃坝</a> | 匡立 | 三峡探索（Probe International） | 2014年7月21日 | 系列三篇之三，匡立本人对板桥水库溃坝的亲历回忆，具体内容尚待核实与补充 | 仅注明出处 |
+| <a href="http://www.bjn4a.org.cn/post.html?id=64ce1e3392c9df1279699388">60师"75.8"中原抗洪琐记</a> | 王晓兵 | bjn4a.org.cn（网站性质待考，据域名及内容推测为部队／老兵相关网站） | 2023年8月5日 | 据本站已收录的<a href="{{ '/archive/1975-central-condolence-telegrams/' | relative_url }}">《中央慰问电》</a>，六十师舟桥连曾参与薄山水库抢险加固；本文据信为该师相关人员对"75.8"中原抗洪经过的回忆记述，具体内容及作者与该师的关系尚待核实与补充 | 仅注明出处 |
 
 *访问/存档日期：2026年9月5日。三峡探索（Probe International）为加拿大环保
 非政府组织主办的网站，长期关注并批评中国大型水利工程，具有明确的倡导立场；
