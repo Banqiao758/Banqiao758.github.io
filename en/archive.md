@@ -35,12 +35,14 @@ are working glosses for navigation, not official translations.
 | 《驻马店地区758抗洪志》 ("Zhumadian Region 758 Flood-Fighting Gazetteer") | Zhumadian Region Water Resources Bureau | 1998 (published) | Local gazetteer / historical compilation | Cited only |
 | 《河南"75·8"特大洪水灾害》 ("Henan's '75.8' Extraordinary Flood Disaster") | Henan Provincial Water Resources Department | 2005 (published) | Government publication / historical compilation | Cited only |
 | 《板桥水库志 1951-2021》 ("Banqiao Reservoir Gazetteer 1951-2021") | Zhumadian Banqiao Reservoir Management Bureau | 2022 (published) | Reservoir gazetteer / historical compilation | Cited only |
+| 《淮河流域洪汝河、沙颍河水系1975年8月暴雨洪水调查报告》 ("Investigation Report on the August 1975 Rainstorm Flood in the Hongru and Shaying River Systems of the Huai River Basin") | Huai River Harnessing Commission, Ministry of Water Resources and Electric Power (compiled/printed) | March 1979 | Government technical investigation report (internal circulation / 内部资料) | Cited only |
 
 The eight documents above were digitized and proofread by the researcher
 and are reproduced in full on their own pages; see each page for its
 source and rights-status notes. 《驻马店地区758抗洪志》, 《河南"75·8"特大
-洪水灾害》, and 《板桥水库志 1951-2021》 are all published official
-compilations and are cited here by bibliographic information only, with no
+洪水灾害》, 《板桥水库志 1951-2021》, and the Huai River Harnessing
+Commission's 1979 flood investigation report are all official compiled
+publications and are cited here by bibliographic information only, with no
 text reproduced &mdash; several documents in this Archive (e.g. the Central
 condolence telegrams and the 1980 Banqiao/Shimantan lessons report) were
 themselves drawn from the first of these; see
