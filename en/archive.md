@@ -38,18 +38,19 @@ are working glosses for navigation, not official translations.
 | 《淮河流域洪汝河、沙颍河水系1975年8月暴雨洪水调查报告》 ("Investigation Report on the August 1975 Rainstorm Flood in the Hongru and Shaying River Systems of the Huai River Basin") | Huai River Harnessing Commission, Ministry of Water Resources and Electric Power (compiled/printed) | March 1979 | Government technical investigation report (internal circulation / 内部资料) | Cited only |
 | 《"75.8"暴雨洪水调查报告 第一部分 "75.8"特大暴雨的调查与分析》 ("'75.8' Rainstorm Flood Investigation Report, Part 1: Investigation and Analysis of the '75.8' Extraordinary Rainstorm") (draft for comment / 征求意见稿) | "75.8" Rainstorm Flood Investigation Team, Ministry of Water Resources and Electric Power; compiled by the Huai River Harnessing Planning Group Office | January 1976 | Government technical investigation report (internal circulation, draft for comment) | Cited only |
 | 《驻马店地区水利志》（稿） ("Zhumadian Region Water Resources Gazetteer," draft) | Water Resources Gazetteer Editorial Office, Zhumadian Region Water Resources and Fisheries Bureau | October 1994 | Local water resources gazetteer (unpublished draft) | Cited only |
+| 《一九七五年八月洪汝河、沙颍河暴雨洪水概况》 ("Overview of the August 1975 Rainstorm Flood on the Hongru and Shaying Rivers"), in 《治淮汇刊》(Huai River Harnessing Collected Journal), Series 7 | Flood Prevention Office, Huai River Harnessing Commission, Ministry of Water Resources (1981) | 1981 | Government technical report (internal journal) | Cited only |
 
 The eight documents above were digitized and proofread by the researcher
 and are reproduced in full on their own pages; see each page for its
 source and rights-status notes. 《驻马店地区758抗洪志》, 《河南"75·8"特大
 洪水灾害》, 《板桥水库志 1951-2021》, the Huai River Harnessing
 Commission's 1979 flood investigation report, the 1976 draft "75.8"
-rainstorm investigation report, and the 1994 draft 《驻马店地区水利志》
-are all official compiled publications and are cited here by bibliographic
-information only, with no text reproduced &mdash; several documents in this
-Archive (e.g. the Central condolence telegrams and the 1980
-Banqiao/Shimantan lessons report) were themselves drawn from the first of
-these; see
+rainstorm investigation report, the 1994 draft 《驻马店地区水利志》, and the
+1981 overview article in 《治淮汇刊》 Series 7 are all official compiled
+publications and are cited here by bibliographic information only, with no
+text reproduced &mdash; several documents in this Archive (e.g. the Central
+condolence telegrams and the 1980 Banqiao/Shimantan lessons report) were
+themselves drawn from the first of these; see
 <a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>'s
 Rights &amp; Reuse section for how that distinction is handled.
 More documents will be added as they are located, digitized, and verified.
