@@ -35,4 +35,8 @@ reproduction.
     <h2>Survivors</h2>
     <p>Memoirs by, or oral accounts compiled from, survivors and affected residents.</p>
   </a>
+  <a class="card" href="{{ '/en/memoirs/online/' | relative_url }}">
+    <h2>Online memories</h2>
+    <p>Memory pieces published online, each with its original link and an archived copy in case the link disappears.</p>
+  </a>
 </section>

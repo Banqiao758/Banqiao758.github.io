@@ -32,4 +32,8 @@ description: 记者、工程技术人员、行政管理人员及受灾群众所�
     <h2>受灾群众</h2>
     <p>幸存者及受灾群众所著或口述整理的回忆录。</p>
   </a>
+  <a class="card" href="{{ '/memoirs/online/' | relative_url }}">
+    <h2>网络回忆</h2>
+    <p>发布于网络的回忆文章，附原始链接及存档链接，以防链接失效。</p>
+  </a>
 </section>
