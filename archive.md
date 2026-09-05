@@ -17,14 +17,14 @@ description: 一份关于1975年板桥水库溃坝事件的原始文献目录—
 
 | 标题 | 作者/机构 | 日期 | 类型 | 权利状态 |
 |---|---|---|---|---|
-| <a href="{{ '/archive/1975-li-xiannian-farmland-symposium-speech/' | relative_url }}">国务院副总理李先念在全国农田基本建设座谈会上的讲话（摘要）</a> | 李先念（国务院副总理） | 1975年8月11日 | 中央领导人讲话记录稿 | 完整收录 |
 | <a href="{{ '/archive/1975-central-condolence-telegrams/' | relative_url }}">中央慰问电（附省委慰问信、慰问团讲话及名单）</a> | 中共中央等（详见全文各节） | 1975年8月9日－15日 | 党政机关公文、公开活动记录 | 完整收录 |
+| <a href="{{ '/archive/1975-li-xiannian-farmland-symposium-speech/' | relative_url }}">国务院副总理李先念在全国农田基本建设座谈会上的讲话（摘要）</a> | 李先念（国务院副总理） | 1975年8月11日 | 中央领导人讲话记录稿 | 完整收录 |
 | <a href="{{ '/archive/1975-wuyang-shimantan-tiangang-failure-report/' | relative_url }}">中共河南省舞阳工区委员会关于石漫滩、田岗水库垮坝失事情况的报告</a> | 中共河南省舞阳工区委员会 | 1975年9月4日 | 党政机关事故报告 | 完整收录 |
-| <a href="{{ '/archive/1980-banqiao-shimantan-lessons-report/' | relative_url }}">关于河南省"75．8"板桥、石漫滩水库失事经验教训的报告</a> | 中共河南省水利厅党组 | 1980年11月3日（1982年9月15日转发） | 党政机关内部技术调查报告 | 完整收录 |
 | <a href="{{ '/archive/1975-national-flood-conference-opening-address/' | relative_url }}">全国防汛和水库安全会议开幕词（摘要）</a> | 钱正英（水利电力部部长） | 1975年11月25日 | 政府会议开幕讲话 | 完整收录 |
 | <a href="{{ '/archive/1975-national-flood-conference-summary-report/' | relative_url }}">全国防汛和水库安全会议总结报告（摘要）（记录稿）</a> | 钱正英（水利电力部部长） | 1975年12月10日 | 政府会议总结报告 | 完整收录 |
-| <a href="{{ '/archive/1975-mwrep-strengthening-flood-safety-report/' | relative_url }}">水利电力部关于加强防汛和水库安全工作的报告</a> | 水利电力部（呈国务院） | 1975年12月30日 | 政府机关正式报告（呈国务院） | 完整收录 |
 | <a href="{{ '/archive/1975-henan-early-august-report/' | relative_url }}">河南省八月上旬抗洪斗争情况的汇报</a> | 河南省革命委员会水利局 | 1975年12月（全国防汛和水库安全会议） | 政府机关自我检查报告 | 完整收录 |
+| <a href="{{ '/archive/1975-mwrep-strengthening-flood-safety-report/' | relative_url }}">水利电力部关于加强防汛和水库安全工作的报告</a> | 水利电力部（呈国务院） | 1975年12月30日 | 政府机关正式报告（呈国务院） | 完整收录 |
+| <a href="{{ '/archive/1980-banqiao-shimantan-lessons-report/' | relative_url }}">关于河南省"75．8"板桥、石漫滩水库失事经验教训的报告</a> | 中共河南省水利厅党组 | 1980年11月3日（1982年9月15日转发） | 党政机关内部技术调查报告 | 完整收录 |
 
 以上八份文献由研究者本人数字化并校订，来源与权利状态说明详见各文献自身页面。
 更多文献将随查找、数字化与核实工作逐步收录。
