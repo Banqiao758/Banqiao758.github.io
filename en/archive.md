@@ -36,16 +36,18 @@ are working glosses for navigation, not official translations.
 | 《河南"75·8"特大洪水灾害》 ("Henan's '75.8' Extraordinary Flood Disaster") | Henan Provincial Water Resources Department | 2005 (published) | Government publication / historical compilation | Cited only |
 | 《板桥水库志 1951-2021》 ("Banqiao Reservoir Gazetteer 1951-2021") | Zhumadian Banqiao Reservoir Management Bureau | 2022 (published) | Reservoir gazetteer / historical compilation | Cited only |
 | 《淮河流域洪汝河、沙颍河水系1975年8月暴雨洪水调查报告》 ("Investigation Report on the August 1975 Rainstorm Flood in the Hongru and Shaying River Systems of the Huai River Basin") | Huai River Harnessing Commission, Ministry of Water Resources and Electric Power (compiled/printed) | March 1979 | Government technical investigation report (internal circulation / 内部资料) | Cited only |
+| 《"75.8"暴雨洪水调查报告 第一部分 "75.8"特大暴雨的调查与分析》 ("'75.8' Rainstorm Flood Investigation Report, Part 1: Investigation and Analysis of the '75.8' Extraordinary Rainstorm") (draft for comment / 征求意见稿) | "75.8" Rainstorm Flood Investigation Team, Ministry of Water Resources and Electric Power; compiled by the Huai River Harnessing Planning Group Office | January 1976 | Government technical investigation report (internal circulation, draft for comment) | Cited only |
 
 The eight documents above were digitized and proofread by the researcher
 and are reproduced in full on their own pages; see each page for its
 source and rights-status notes. 《驻马店地区758抗洪志》, 《河南"75·8"特大
-洪水灾害》, 《板桥水库志 1951-2021》, and the Huai River Harnessing
-Commission's 1979 flood investigation report are all official compiled
-publications and are cited here by bibliographic information only, with no
-text reproduced &mdash; several documents in this Archive (e.g. the Central
-condolence telegrams and the 1980 Banqiao/Shimantan lessons report) were
-themselves drawn from the first of these; see
+洪水灾害》, 《板桥水库志 1951-2021》, the Huai River Harnessing
+Commission's 1979 flood investigation report, and the 1976 draft "75.8"
+rainstorm investigation report are all official compiled publications and
+are cited here by bibliographic information only, with no text reproduced
+&mdash; several documents in this Archive (e.g. the Central condolence
+telegrams and the 1980 Banqiao/Shimantan lessons report) were themselves
+drawn from the first of these; see
 <a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>'s
 Rights &amp; Reuse section for how that distinction is handled.
 More documents will be added as they are located, digitized, and verified.
