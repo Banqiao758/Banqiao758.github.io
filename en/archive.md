@@ -33,14 +33,16 @@ are working glosses for navigation, not official translations.
 | <a href="{{ '/archive/1975-mwrep-strengthening-flood-safety-report/' | relative_url }}">Ministry of Water Resources and Electric Power: Report to the State Council on Strengthening Flood Prevention and Reservoir Safety Work</a> (Chinese) | Ministry of Water Resources and Electric Power (to the State Council) | Dec 30, 1975 | Formal government report to the State Council | Reproduced in full |
 | <a href="{{ '/archive/1980-banqiao-shimantan-lessons-report/' | relative_url }}">Henan Provincial Water Resources Department Party Group: Report on the Lessons of the "75.8" Failure of the Banqiao and Shimantan Reservoirs</a> (Chinese) | Party Group, Henan Provincial Water Resources Department | Nov 3, 1980 (transmitted Sept 15, 1982) | Internal party/government technical investigation report | Reproduced in full |
 | 《驻马店地区758抗洪志》 ("Zhumadian Region 758 Flood-Fighting Gazetteer") | Zhumadian Region Water Resources Bureau | 1998 (published) | Local gazetteer / historical compilation | Cited only |
+| 《河南"75·8"特大洪水灾害》 ("Henan's '75.8' Extraordinary Flood Disaster") | Henan Provincial Water Resources Department | 2005 (published) | Government publication / historical compilation | Cited only |
 
 The eight documents above were digitized and proofread by the researcher
 and are reproduced in full on their own pages; see each page for its
-source and rights-status notes. 《驻马店地区758抗洪志》 is a published
-local gazetteer and is cited here by bibliographic information only, with
-no text reproduced &mdash; several documents in this Archive (e.g. the
-Central condolence telegrams and the 1980 Banqiao/Shimantan lessons report)
-were themselves drawn from this gazetteer; see
+source and rights-status notes. 《驻马店地区758抗洪志》 and 《河南"75·8"
+特大洪水灾害》 are both published official compilations and are cited here
+by bibliographic information only, with no text reproduced &mdash; several
+documents in this Archive (e.g. the Central condolence telegrams and the
+1980 Banqiao/Shimantan lessons report) were themselves drawn from the
+former; see
 <a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>'s
 Rights &amp; Reuse section for how that distinction is handled.
 More documents will be added as they are located, digitized, and verified.
