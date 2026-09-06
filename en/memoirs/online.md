@@ -27,6 +27,7 @@ information and a brief summary only, not reproduced text — see
 | <a href="https://www.sanxiatansuo.com/index.html?index=view&vid=812">"A Family's Account of Witnessing the '75.8' Banqiao Reservoir Disaster," Part 3: "The Banqiao Reservoir Failure I Experienced"</a> | Kuang Li (匡立) | 三峡探索 (Three Gorges Probe / Probe International) | July 21, 2014 | Part 3 of the same series; Kuang Li's own first-hand recollection of the Banqiao Reservoir failure | Cited only |
 | <a href="http://www.bjn4a.org.cn/post.html?id=64ce1e3392c9df1279699388">"Miscellaneous Notes on the 60th Division's '75.8' Central Plains Flood-Fighting"</a> | Wang Xiaobing (王晓兵) | bjn4a.org.cn (site nature not fully confirmed; the domain and content suggest a military-unit/veterans' association site) | Aug 5, 2023 | Per this site's <a href="{{ '/en/archive/1975-central-condolence-telegrams/' | relative_url }}">Central condolence telegrams</a> document, the 60th Division's pontoon-bridge company took part in reinforcing the Boshan Reservoir during the crisis; this piece is believed to be a recollection by someone connected to that division of the "75.8" Central Plains flood-fighting effort. | Cited only |
 | <a href="http://www.bjn4a.org.cn/post.html?id=64d4c08892c9df12796998cd">"1975: On Leave, the 59th Division Ran Into the Henan Flood Fight"</a> | Yuan Nianqi (袁念琪) | bjn4a.org.cn (site nature not fully confirmed; the domain and content suggest a military-unit/veterans' association site) | Aug 10, 2023 | Per this site's <a href="{{ '/en/archive/1975-central-condolence-telegrams/' | relative_url }}">Central condolence telegrams</a> document, 23 division-level or higher PLA units took part in the Zhumadian flood fight, though that document does not name the 59th Division specifically; this piece is believed to be a recollection by someone connected to that division of the "75.8" Henan flood-fighting effort. | Cited only |
+| <a href="https://mp.weixin.qq.com/s/EiusHSBIYp6lICpa7zecvg">"Suiping Memories: Wei Fu'an &#124;&#124; A Record of Rebuilding Wencheng Commune After the '75.8' Flood"</a> (automated archiving unsuccessful; the researcher has retained a full print-to-PDF copy as a private local backup, not publicly released) | Wei Fu'an (魏富安), oral account &mdash; after the "75.8" flood, dispatched by the Suiping County Party Committee to serve as Wencheng Commune's party secretary (with Fan Yuqing as deputy secretary); compiled by Li Shanbin (李善斌) | WeChat public account "豫见文史" (Yujian Wenshi; administered by the Suiping County Cultural Development Promotion Association, run by the Yujian Wenshi Studio) | Aug 6, 2026 | Wei Fu'an's own first-hand account of leading Wencheng Commune's post-disaster recovery: stabilizing residents, self-reliant production, restoring farmland irrigation, rebuilding housing, and afforestation &mdash; social-reconstruction content closely matching this project's focus on the social and engineering background | Cited only |
 
 *Accessed/archived: Sept 5, 2026. 三峡探索 (Three Gorges Probe / Probe
 International) is published by a Canadian environmental NGO with a
@@ -38,6 +39,13 @@ position. The site loads page content via client-side scripting, and
 automated archiving (Wayback Machine) could not be confirmed successful;
 the original links were each confirmed accessible at the time of
 cataloging.*
+
+*The "豫见文史" WeChat account runs a dedicated "'75.8' Great Flood" series;
+known further entries include Huang Fangliang's "A First-Hand Account of
+the Flood-Fighting Effort at Boshan Reservoir and Across the Zhumadian
+Region in 1975" and Zhao Mingfa's "A Life-and-Death Vigil by a Man in His
+Seventies During the '75.8' Extraordinary Flood." These will be catalogued
+individually if and when specific article details are obtained.*
 
 ## Entry format
 
