@@ -27,5 +27,5 @@ Reasons to get in touch:
 If you're reaching out with sensitive material or personal testimony, say so
 in your first message and it will be handled under the same consent and
 anonymization protocol described in
-<a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>.
+<a href="{{ '/en/' | relative_url }}#interview-ethics">Sources &amp; Methodology</a>.
 You are not committing to anything by making initial contact.

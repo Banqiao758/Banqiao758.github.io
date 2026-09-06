@@ -15,7 +15,7 @@ author type. Online content like this is especially prone to disappearing
 (link rot, deleted accounts, content removal), so every entry records an
 archived copy alongside the original URL. This section holds source
 information and a brief summary only, not reproduced text — see
-<a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>.
+<a href="{{ '/en/' | relative_url }}">Sources &amp; Methodology</a>.
 
 ## Published entries
 

@@ -11,7 +11,7 @@ description: A catalog of published personal records by reporters, engineers, ad
 Published personal records by reporters, engineers, administrators, and
 disaster-affected residents. This section holds bibliographic information
 and brief descriptions only, not reproduced text — see
-<a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>.
+<a href="{{ '/en/' | relative_url }}">Sources &amp; Methodology</a>.
 
 ## Published entries
 

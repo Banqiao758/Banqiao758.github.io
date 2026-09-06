@@ -14,7 +14,7 @@ whether in formal publications or published online. These are personal
 works under copyright, and **this site does not reproduce their text**.
 This section holds bibliographic information and brief descriptions only,
 per the
-<a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>
+<a href="{{ '/en/' | relative_url }}#rights-reuse">Sources &amp; Methodology</a>
 page's Rights &amp; Reuse policy &mdash; typically "cited only," or a short
 fair-use quotation of a specific fact where needed, never full or extended
 reproduction.

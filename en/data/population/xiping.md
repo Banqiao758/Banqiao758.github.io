@@ -13,5 +13,5 @@ Affected-population and casualty estimates for Xiping County.
 <div class="pending">
 No entries published yet. Each estimate must state its source, publication
 year, and methodology before it's added — see
-<a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>.
+<a href="{{ '/en/' | relative_url }}">Sources &amp; Methodology</a>.
 </div>

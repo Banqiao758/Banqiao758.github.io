@@ -14,7 +14,7 @@ catalogued as press coverage, not treated as primary fact, and is used to
 support a specific claim only when corroborated by the
 <a href="{{ '/en/archive/' | relative_url }}">Official Archive</a> or other
 primary sources; uncorroborated claims are explicitly flagged as such. See
-<a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>
+<a href="{{ '/en/' | relative_url }}">Sources &amp; Methodology</a>
 for the standard used to vet entries.
 
 ## Published entries

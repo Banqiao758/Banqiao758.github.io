@@ -34,7 +34,7 @@ Consent to be interviewed and consent to be published are treated as separate
 decisions. A subject can permit an interview for the researcher's own use
 without agreeing to have any part of it appear publicly, and can withdraw
 consent for public material after the fact. Full detail is in
-<a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>.
+<a href="{{ '/en/' | relative_url }}#interview-ethics">Sources &amp; Methodology</a>.
 
 ## Planned interview categories
 

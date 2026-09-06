@@ -17,7 +17,7 @@ description: Data on the 1975 Banqiao Dam disaster organized into four categorie
 This page organizes data related to the disaster into four categories.
 Every entry must state its source, publication year, and methodology
 before it's added — see
-<a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>.
+<a href="{{ '/en/' | relative_url }}">Sources &amp; Methodology</a>.
 
 <section class="section-grid">
   <a class="card" href="{{ '/en/data/engineering/' | relative_url }}">

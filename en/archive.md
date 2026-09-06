@@ -12,7 +12,7 @@ This section catalogs primary documents as they are located, digitized, and
 verified. Every entry will list its source repository or collection, date,
 original language, a note on how it was obtained, and a rights status
 explaining whether it can be downloaded here. See
-<a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>
+<a href="{{ '/en/' | relative_url }}">Sources &amp; Methodology</a>
 for how documents are vetted and rights are assessed before they appear here.
 
 ## Published documents
@@ -51,7 +51,7 @@ publications and are cited here by bibliographic information only, with no
 text reproduced &mdash; several documents in this Archive (e.g. the Central
 condolence telegrams and the 1980 Banqiao/Shimantan lessons report) were
 themselves drawn from the first of these; see
-<a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>'s
+<a href="{{ '/en/' | relative_url }}#rights-reuse">Sources &amp; Methodology</a>'s
 Rights &amp; Reuse section for how that distinction is handled.
 More documents will be added as they are located, digitized, and verified.
 
@@ -81,5 +81,5 @@ separated from the material itself:
 | Language | Original language; translation notice if applicable |
 | Source | Repository, collection, or provider |
 | Status | Located / digitized / translated / verified |
-| Rights status | Reproduced in full / data extracted / fair-use excerpt / cited only / restricted (see <a href="{{ '/en/methodology/' | relative_url }}">Sources &amp; Methodology</a>) |
+| Rights status | Reproduced in full / data extracted / fair-use excerpt / cited only / restricted (see <a href="{{ '/en/' | relative_url }}#rights-reuse">Sources &amp; Methodology</a>) |
 | Notes | Confidence notes, gaps, or context needed to read the document |

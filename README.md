@@ -19,8 +19,7 @@ switcher in the header.
 
 | Chinese (default) | English | Page |
 |---|---|---|
-| `index.md` (`/`) | `en/index.md` (`/en/`) | Home |
-| `methodology.md` | `en/methodology.md` | Sources & evidentiary standard |
+| `index.md` (`/`) | `en/index.md` (`/en/`) | Home, incl. Sources & Methodology (evidentiary standard) |
 | `archive.md` | `en/archive.md` | Primary document catalog |
 | `interviews.md` | `en/interviews.md` | Oral history |
 | `photographs.md` | `en/photographs.md` | Photo catalog |
@@ -47,4 +46,5 @@ bundle exec jekyll serve
 
 This site does not publish claims — especially casualty figures or timeline
 specifics — that can't be traced to a primary source or a clearly attributed,
-corroborated secondary source. See `methodology.md` before adding content.
+corroborated secondary source. See the Sources & Methodology section of
+`index.md` (`en/index.md`) before adding content.

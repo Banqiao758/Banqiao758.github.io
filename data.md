@@ -15,7 +15,7 @@ description: 按工程、气象、人口、经济四类整理的1975年板桥水
 </header>
 
 本页按以下四类组织与此次灾害相关的数据。每项数据收录前都需完整说明来源、发布年份
-与方法，详见<a href="{{ '/methodology/' | relative_url }}">《史料与方法》</a>。
+与方法，详见<a href="{{ '/' | relative_url }}">《史料与方法》</a>。
 
 <section class="section-grid">
   <a class="card" href="{{ '/data/engineering/' | relative_url }}">
