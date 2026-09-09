@@ -18,7 +18,7 @@ description: 一份关于1975年板桥水库溃坝事件的原始文献目录—
 | 标题 | 作者/机构 | 日期 | 类型 | 权利状态 |
 |---|---|---|---|---|
 | <a href="{{ '/archive/1975-central-condolence-telegrams/' | relative_url }}">中央慰问电（附省委慰问信、慰问团讲话及名单）</a> | 中共中央等（详见全文各节） | 1975年8月9日－15日 | 党政机关公文、公开活动记录 | 完整收录 |
-| <a href="{{ '/archive/1975-li-xiannian-farmland-symposium-speech/' | relative_url }}">国务院副总理李先念在全国农田基本建设座谈会上的讲话（摘要）</a> | 李先念（国务院副总理） | 1975年8月11日 | 中央领导人讲话记录稿 | 完整收录 |
+| <a href="{{ '/archive/1975-li-xiannian-farmland-symposium-speech/' | relative_url }}">国务院副总理李先念在全国农田基本建设座谈会上的讲话</a> | 李先念（国务院副总理） | 1975年8月11日 | 中央领导人讲话记录稿 | 完整收录 |
 | <a href="{{ '/archive/1975-wuyang-shimantan-tiangang-failure-report/' | relative_url }}">中共河南省舞阳工区委员会关于石漫滩、田岗水库垮坝失事情况的报告</a> | 中共河南省舞阳工区委员会 | 1975年9月4日 | 党政机关事故报告 | 完整收录 |
 | <a href="{{ '/archive/1975-national-flood-conference-opening-address/' | relative_url }}">全国防汛和水库安全会议开幕词（摘要）</a> | 钱正英（水利电力部部长） | 1975年11月25日 | 政府会议开幕讲话 | 完整收录 |
 | <a href="{{ '/archive/1975-national-flood-conference-summary-report/' | relative_url }}">全国防汛和水库安全会议总结报告（摘要）（记录稿）</a> | 钱正英（水利电力部部长） | 1975年12月10日 | 政府会议总结报告 | 完整收录 |
