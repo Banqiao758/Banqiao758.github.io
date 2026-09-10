@@ -16,9 +16,12 @@ design storage during the "75.8" flood &mdash; this corroborates this site's
 <a href="{{ '/en/archive/1975-henan-early-august-report/' | relative_url }}">Henan Provincial Water Resources Bureau's early-August report</a>,
 which records Runan County party secretary Yuan Shengchen organizing
 military and civilian crews to reinforce the dam. The source copy carries
-handwritten annotations beside some printed figures (all higher than the
-printed values, likely added later by the book's owner; the date of
-annotation is unknown) &mdash; both are given below where they differ.
+handwritten annotations beside some printed figures, all higher than the
+printed values. As with the Boshan entry, the researcher's working guess
+is that these reflect updated figures from post-"75.8" reinforcement and
+rechecking under the raised safety standards called for in this site's
+<a href="{{ '/en/archive/1975-national-flood-conference-summary-report/' | relative_url }}">National Flood Prevention and Reservoir Safety Conference summary report</a> (Dec 10, 1975). The book does not date the annotations, so this
+remains a working guess. Both are given below where they differ.
 
 ## Basic information
 
@@ -94,4 +97,6 @@ Dashed lines mark the design flood (7,970 m&sup3;/s) and check flood
 *Figures and chart data points are taken directly from the source as
 stated, without independent verification or unit conversion by this
 project. Where handwritten annotations and printed figures both appear,
-both are given here; this project takes no position on which is correct.*
+both are given here; the annotations likely reflect post-"75.8"
+reinforcement/recheck figures, but the book does not date them, so this
+remains a working guess.*

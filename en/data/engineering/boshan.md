@@ -15,10 +15,15 @@ January 1974), pp. 32&ndash;37. Boshan Reservoir was reinforced by military
 and civilian crews during the "75.8" flood and did not fail &mdash; this
 corroborates this site's <a href="{{ '/en/archive/1975-central-condolence-telegrams/' | relative_url }}">Central condolence telegrams</a>, which records the 60th Division's
 pontoon-bridge company taking part in the reservoir's reinforcement. The
-source copy carries handwritten annotations beside some printed figures
-(all higher than the printed values, likely added later by the book's
-owner; the date of annotation is unknown) &mdash; both the printed and
-annotated figures are given below where they differ.
+source copy carries handwritten annotations beside some printed figures,
+all higher than the printed values. The researcher's working guess is
+that these reflect updated figures from post-"75.8" dam/levee
+reinforcement and rechecking under the raised safety standards called for
+in this site's <a href="{{ '/en/archive/1975-national-flood-conference-summary-report/' | relative_url }}">National Flood Prevention and Reservoir Safety Conference summary report</a> (Dec 10, 1975), which directed surviving reservoirs to be
+rechecked against the "probable maximum flood." The book itself does not
+date the annotations, so this remains a working guess rather than a
+confirmed fact. Both the printed and annotated figures are given below
+where they differ.
 
 ## Basic information
 
@@ -92,5 +97,7 @@ Dashed lines mark the design flood (3,730 m&sup3;/s) and check flood
 *Figures and chart data points are taken directly from the source as
 stated, without independent verification or unit conversion by this
 project. Where handwritten annotations and printed figures both appear,
-both are given here; this project takes no position on which is correct.
-See p. 37 of the source for the complete year-by-year data (1954&ndash;1972).*
+both are given here; the annotations likely reflect post-"75.8"
+reinforcement/recheck figures, but the book does not date them, so this
+remains a working guess. See p. 37 of the source for the complete
+year-by-year data (1954&ndash;1972).*
