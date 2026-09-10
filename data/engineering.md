@@ -11,16 +11,19 @@ description: 按水库分列的设计、施工规格与泄洪能力等工程数�
 水库设计、施工规格、泄洪能力等工程参数，按水库分页收录。
 
 <section class="section-grid">
+  <a class="card" href="{{ '/data/engineering/banqiao/' | relative_url }}">
+    <h2>板桥水库</h2>
+    <p>垮坝（1975年8月）前的工程与水文参数。</p>
+  </a>
+  <a class="card" href="{{ '/data/engineering/shimantan/' | relative_url }}">
+    <h2>石漫滩水库</h2>
+    <p>垮坝（1975年8月）前的工程与水文参数。</p>
+  </a>
   <a class="card" href="{{ '/data/engineering/tiangang/' | relative_url }}">
     <h2>田岗水库</h2>
     <p>1958年初建与2002年复建工程参数对照。</p>
   </a>
 </section>
-
-## 拟设条目
-
-- **板桥水库**——设计洪水标准、坝体规格、泄洪能力等（待补充）。
-- **石漫滩水库**——设计洪水标准、坝体规格、泄洪能力等（待补充）。
 
 ## 拟设内容
 
