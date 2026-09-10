@@ -20,6 +20,18 @@ organized as one page per reservoir.
     <h2>Shimantan Reservoir</h2>
     <p>Engineering and hydrological data from before the August 1975 failure.</p>
   </a>
+  <a class="card" href="{{ '/en/data/engineering/boshan/' | relative_url }}">
+    <h2>Boshan Reservoir</h2>
+    <p>1974 engineering and hydrological data (reinforced, did not fail).</p>
+  </a>
+  <a class="card" href="{{ '/en/data/engineering/suyahu/' | relative_url }}">
+    <h2>Suyahu Reservoir</h2>
+    <p>1974 engineering and hydrological data (exceeded design storage, did not fail).</p>
+  </a>
+  <a class="card" href="{{ '/en/data/engineering/zhugou/' | relative_url }}">
+    <h2>Zhugou Reservoir</h2>
+    <p>1974 engineering and hydrological data (small reservoir).</p>
+  </a>
   <a class="card" href="{{ '/en/data/engineering/tiangang/' | relative_url }}">
     <h2>Tiangang Reservoir</h2>
     <p>1958 original vs. 2002 reconstruction engineering specifications.</p>
