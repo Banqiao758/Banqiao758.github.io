@@ -29,11 +29,15 @@ navigation, not official translations.
 | <a href="{{ '/archive/1975-li-xiannian-farmland-symposium-speech/' | relative_url }}">Vice Premier Li Xiannian's speech at the National Farmland Capital Construction Symposium</a> (Chinese) | Li Xiannian (Vice Premier, State Council) | Aug 11, 1975 | Transcript of a central leader's remarks | Reproduced in full |
 | <a href="{{ '/archive/1975-mfa-external-messaging-request/' | relative_url }}">Ministry of Foreign Affairs, "Request for Instructions on External Messaging Regarding the Henan Flood Disaster" (excerpt)</a> (Chinese) | Ministry of Foreign Affairs (submitted for Deng Xiaoping's approval) | Aug 15, 1975 (date Deng Xiaoping approved it) | Formal government request for instructions (original not yet located; quoted via the Deng Xiaoping Chronicle) | Quoted |
 | <a href="{{ '/archive/1975-state-council-henan-disaster-relief-report/' | relative_url }}">State Council, "Report on the Extraordinary Rainstorm Flood Disaster in Henan and the Disaster Relief Situation" (excerpt)</a> (Chinese) | State Council | Aug 16, 1975 (date Li Xiannian forwarded it to Mao Zedong) | Formal government report (original not yet located; quoted via the Li Xiannian Chronicle) | Quoted |
+| <a href="{{ '/archive/1975-henan-provincial-committee-production-relief-directive/' | relative_url }}">CPC Henan Provincial Committee, "Directive on Mobilizing the Masses to Vigorously Carry Out Production and Disaster Relief" (excerpt)</a> (Chinese) | CPC Henan Provincial Committee | Aug 27, 1975 | Provincial committee directive (original appears in an appendix to 《河南"75·8"特大洪水灾害》) | Quoted |
 | <a href="{{ '/archive/1975-wuyang-shimantan-tiangang-failure-report/' | relative_url }}">CPC Henan Wuyang Industrial District Working Committee: Report on the Failure of the Shimantan and Tiangang Reservoirs</a> (Chinese) | CPC Henan Wuyang Industrial District Working Committee | Sept 4, 1975 | Party/government incident report | Reproduced in full |
+| <a href="{{ '/archive/1975-whmr-flood-relief-commendation-notice/' | relative_url }}">Wuhan Military Region, "Notice on Commending and Citing Advanced Units and Individuals in Flood-Fighting and Disaster Relief" (excerpt)</a> (Chinese) | Wuhan Military Region | Nov 5, 1975 | Military region notice (original appears in an appendix to 《河南"75·8"特大洪水灾害》) | Quoted |
 | <a href="{{ '/archive/1975-national-flood-conference-opening-address/' | relative_url }}">National Flood Prevention and Reservoir Safety Conference: Opening Address (abridged)</a> (Chinese) | Qian Zhengying (Minister, Ministry of Water Resources and Electric Power) | Nov 25, 1975 | Government conference opening address | Reproduced in full |
 | <a href="{{ '/archive/1975-national-flood-conference-summary-report/' | relative_url }}">National Flood Prevention and Reservoir Safety Conference: Summary Report (abridged transcript)</a> (Chinese) | Qian Zhengying (Minister, Ministry of Water Resources and Electric Power) | Dec 10, 1975 | Government conference summary report | Reproduced in full |
 | <a href="{{ '/archive/1975-henan-early-august-report/' | relative_url }}">Henan Provincial Water Resources Bureau: Report on the Early-August Flood-Fighting Situation</a> (Chinese) | Henan Provincial Revolutionary Committee Water Resources Bureau | Dec 1975 (National Flood Prevention and Reservoir Safety Conference) | Government self-assessment report | Reproduced in full |
 | <a href="{{ '/archive/1975-mwrep-strengthening-flood-safety-report/' | relative_url }}">Ministry of Water Resources and Electric Power: Report to the State Council on Strengthening Flood Prevention and Reservoir Safety Work</a> (Chinese) | Ministry of Water Resources and Electric Power (to the State Council) | Dec 30, 1975 | Formal government report to the State Council | Reproduced in full |
+| <a href="{{ '/archive/1976-gsd-gpd-flood-relief-commendation/' | relative_url }}">General Staff Department and General Political Department, "Circular Commending Advanced Units of the Flood-Fighting and Disaster-Relief Forces" (excerpt)</a> (Chinese) | General Staff Department, General Political Department | July 23, 1976 | Military headquarters circular (original appears in an appendix to 《河南"75·8"特大洪水灾害》) | Quoted |
+| <a href="{{ '/archive/1976-cmc-model-battalion-order/' | relative_url }}">Central Military Commission, Order Awarding an Artillery Battalion the Title "Model Flood-Relief, People-Loving Battalion" (excerpt)</a> (Chinese) | Central Military Commission | Aug 5, 1976 | Central Military Commission order (original appears in an appendix to 《河南"75·8"特大洪水灾害》) | Quoted |
 | <a href="{{ '/archive/1980-banqiao-shimantan-lessons-report/' | relative_url }}">Henan Provincial Water Resources Department Party Group: Report on the Lessons of the "75.8" Failure of the Banqiao and Shimantan Reservoirs</a> (Chinese) | Party Group, Henan Provincial Water Resources Department | Nov 3, 1980 (transmitted Sept 15, 1982) | Internal party/government technical investigation report | Reproduced in full |
 | 《驻马店地区758抗洪志》 ("Zhumadian Region 758 Flood-Fighting Gazetteer") | Zhumadian Region Water Resources Bureau | 1998 (published) | Local gazetteer / historical compilation | Cited only |
 | 《河南"75·8"特大洪水灾害》 ("Henan's '75.8' Extraordinary Flood Disaster") | Henan Provincial Water Resources Department | 2005 (published) | Government publication / historical compilation | Cited only |
@@ -45,13 +49,20 @@ navigation, not official translations.
 
 The documents marked "Reproduced in full" above were digitized and
 proofread by the researcher and appear in full on their own pages; see
-each page for its source and rights-status notes. The two entries marked
-"Quoted" (the Ministry of Foreign Affairs' external-messaging request and
-the State Council's disaster-relief report) have not themselves been
-located — only short passages quoting and paraphrasing them, found in the
-Deng Xiaoping Chronicle (《邓小平年谱》) and the Li Xiannian Chronicle
-(《李先念年谱》) respectively, are available; see each entry's own page
-for detail. 《驻马店地区758抗洪志》, 《河南"75·8"特大
+each page for its source and rights-status notes. The entries marked
+"Quoted" fall into two groups: the Ministry of Foreign Affairs' external-
+messaging request and the State Council's disaster-relief report have not
+themselves been located — only short passages quoting and paraphrasing
+them, found in the Deng Xiaoping Chronicle (《邓小平年谱》) and the Li
+Xiannian Chronicle (《李先念年谱》) respectively, are available. The Henan
+Provincial Committee's production-relief directive, the Wuhan Military
+Region's commendation notice, the General Staff/General Political
+Department's commendation circular, and the Central Military Commission's
+model-battalion order all appear in an appendix to 《河南"75·8"特大洪水
+灾害》(2005); since that book is itself under copyright, this site
+summarizes their content and quotes only short phrases rather than
+reproducing the full text. See each entry's own page for detail.
+《驻马店地区758抗洪志》, 《河南"75·8"特大
 洪水灾害》, 《板桥水库志 1951-2021》, the Huai River Harnessing
 Commission's 1979 flood investigation report, the 1976 draft "75.8"
 rainstorm investigation report, the 1994 draft 《驻马店地区水利志》, and the
