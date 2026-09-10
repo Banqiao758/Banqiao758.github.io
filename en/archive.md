@@ -17,15 +17,17 @@ for how documents are vetted and rights are assessed before they appear here.
 
 ## Published documents
 
-These eight documents were digitized and proofread by the researcher from
-their original sources. They are presented in the original Chinese, as
-primary sources — no full English translation has been made; titles below
-are working glosses for navigation, not official translations.
+The documents marked "Reproduced in full" below were digitized and
+proofread by the researcher from their original sources. They are
+presented in the original Chinese, as primary sources — no full English
+translation has been made; titles below are working glosses for
+navigation, not official translations.
 
 | Title (English gloss) | Author/Institution | Date | Type | Rights status |
 |---|---|---|---|---|
 | <a href="{{ '/archive/1975-central-condolence-telegrams/' | relative_url }}">Central condolence telegrams, with the provincial committee's condolence letter, the central delegation's rally record, and personnel lists</a> (Chinese) | CPC Central Committee et al. (multiple issuing bodies; see full text) | Aug 9&ndash;15, 1975 | Party/government communications, public proceedings record | Reproduced in full |
 | <a href="{{ '/archive/1975-li-xiannian-farmland-symposium-speech/' | relative_url }}">Vice Premier Li Xiannian's speech at the National Farmland Capital Construction Symposium</a> (Chinese) | Li Xiannian (Vice Premier, State Council) | Aug 11, 1975 | Transcript of a central leader's remarks | Reproduced in full |
+| <a href="{{ '/archive/1975-state-council-henan-disaster-relief-report/' | relative_url }}">State Council, "Report on the Extraordinary Rainstorm Flood Disaster in Henan and the Disaster Relief Situation" (excerpt)</a> (Chinese) | State Council | Aug 16, 1975 (date Li Xiannian forwarded it to Mao Zedong) | Formal government report (original not yet located; quoted via the Li Xiannian Chronicle) | Quoted |
 | <a href="{{ '/archive/1975-wuyang-shimantan-tiangang-failure-report/' | relative_url }}">CPC Henan Wuyang Industrial District Working Committee: Report on the Failure of the Shimantan and Tiangang Reservoirs</a> (Chinese) | CPC Henan Wuyang Industrial District Working Committee | Sept 4, 1975 | Party/government incident report | Reproduced in full |
 | <a href="{{ '/archive/1975-national-flood-conference-opening-address/' | relative_url }}">National Flood Prevention and Reservoir Safety Conference: Opening Address (abridged)</a> (Chinese) | Qian Zhengying (Minister, Ministry of Water Resources and Electric Power) | Nov 25, 1975 | Government conference opening address | Reproduced in full |
 | <a href="{{ '/archive/1975-national-flood-conference-summary-report/' | relative_url }}">National Flood Prevention and Reservoir Safety Conference: Summary Report (abridged transcript)</a> (Chinese) | Qian Zhengying (Minister, Ministry of Water Resources and Electric Power) | Dec 10, 1975 | Government conference summary report | Reproduced in full |
@@ -40,9 +42,13 @@ are working glosses for navigation, not official translations.
 | 《驻马店地区水利志》（稿） ("Zhumadian Region Water Resources Gazetteer," draft) | Water Resources Gazetteer Editorial Office, Zhumadian Region Water Resources and Fisheries Bureau | October 1994 | Local water resources gazetteer (unpublished draft) | Cited only |
 | 《一九七五年八月洪汝河、沙颍河暴雨洪水概况》 ("Overview of the August 1975 Rainstorm Flood on the Hongru and Shaying Rivers"), in 《治淮汇刊》(Huai River Harnessing Collected Journal), Series 7 | Flood Prevention Office, Huai River Harnessing Commission, Ministry of Water Resources (1981) | 1981 | Government technical report (internal journal) | Cited only |
 
-The eight documents above were digitized and proofread by the researcher
-and are reproduced in full on their own pages; see each page for its
-source and rights-status notes. 《驻马店地区758抗洪志》, 《河南"75·8"特大
+The documents marked "Reproduced in full" above were digitized and
+proofread by the researcher and appear in full on their own pages; see
+each page for its source and rights-status notes. The entry marked
+"Quoted" (the State Council's disaster-relief report) has not itself
+been located — only a short passage quoting and paraphrasing it, found in
+the Li Xiannian Chronicle (《李先念年谱》), is available; see that entry's
+own page for detail. 《驻马店地区758抗洪志》, 《河南"75·8"特大
 洪水灾害》, 《板桥水库志 1951-2021》, the Huai River Harnessing
 Commission's 1979 flood investigation report, the 1976 draft "75.8"
 rainstorm investigation report, the 1994 draft 《驻马店地区水利志》, and the
