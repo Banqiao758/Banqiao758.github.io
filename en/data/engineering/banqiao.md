@@ -23,7 +23,7 @@ aftermath.
 | Parameter | Value |
 |---|---|
 | River | Ru River (汝河) |
-| Construction site | Source states "Biyang" (泌阳), which is inconsistent with "Suiping County" (遂平县) as used elsewhere on this site; the reason for the discrepancy is unresolved |
+| Construction site | Biyang County (泌阳县) &mdash; the dam's actual location; this area was transferred to Zhumadian's Yicheng District (驿城区) in the 1990s. Suiping County (遂平县), used elsewhere on this site, is downstream of the dam and was the area hit hardest after the failure, not the dam's own location |
 | Controlled catchment area | 742 km&sup2; |
 | Full-compensation elevation | 114.76 m |
 | Channel safe discharge | 1,500 m&sup3;/s |
@@ -85,10 +85,7 @@ aftermath.
 | 1972 | 579.3 | 6,432 | 113.87 |
 
 *Figures are taken directly from the source as stated, without
-independent verification or unit conversion by this project. The
-"construction site" field is inconsistent with "Suiping County" as used
-elsewhere on this site; whether this reflects a historical administrative
-boundary or an error in the source is unresolved. The source's annual
-hydrological table lists all 22 years from 1951&ndash;1972; only a few
-representative years are excerpted here &mdash; see p.43 of the source for
-the complete year-by-year data.*
+independent verification or unit conversion by this project. The source's
+annual hydrological table lists all 22 years from 1951&ndash;1972; only a
+few representative years are excerpted here &mdash; see p.43 of the source
+for the complete year-by-year data.*
