@@ -11,9 +11,7 @@ description: Engineering and hydrological specifications for Shimantan Reservoir
 The figures below are drawn from 《河南省水库基本资料汇编》(Henan Province
 Reservoir Basic Data Compilation), compiled by the Henan Provincial
 Revolutionary Committee Water Resources Bureau (internal circulation,
-publication year not stated; the historical hydrological data it
-includes runs through 1972, so it must have been compiled between 1972
-and the "75.8" failure in 1975), pp. 80&ndash;85. This is pre-failure design
+January 1974), pp. 80&ndash;85. This is pre-failure design
 and operating data, and can be cross-referenced against this site's
 <a href="{{ '/en/archive/1975-wuyang-shimantan-tiangang-failure-report/' | relative_url }}">Wuyang Working Committee's report on the Shimantan/Tiangang failure</a>
 and <a href="{{ '/en/archive/1980-banqiao-shimantan-lessons-report/' | relative_url }}">1980 Banqiao/Shimantan lessons-learned report</a>; also comparable
@@ -73,7 +71,25 @@ with this site's <a href="{{ '/en/data/engineering/tiangang/' | relative_url }}"
 | Earth/rock backfill | 1.086M m&sup3; |
 | Total investment | 7.86M yuan |
 
+## Stage&ndash;storage&ndash;discharge curve
+
+The chart below is redrawn by this project from the source's stage-level
+table on pp. 83&ndash;84 (water level 90.0&ndash;110.0 m, with corresponding
+reservoir capacity and outlet/main-spillway discharge at each level) &mdash;
+it is an original chart, not a scan of the source's own figure.
+
+<img src="{{ '/assets/images/data/shimantan-stage-storage-discharge.png' | relative_url }}" alt="Shimantan Reservoir stage-storage-discharge curve" style="max-width:100%;" />
+
 ## Selected annual hydrological data (1952&ndash;1972)
+
+The chart below is likewise redrawn by this project from the source's
+year-by-year hydrological record on p. 85. Dashed lines mark the design
+flood (2,800 m&sup3;/s) and check flood (5,065 m&sup3;/s) standards for
+comparison against the recorded annual peaks.
+
+<img src="{{ '/assets/images/data/shimantan-hydrograph-1952-1972.png' | relative_url }}" alt="Shimantan Reservoir annual peak flood and highest water level, 1952-1972" style="max-width:100%;" />
+
+Selected years, in table form:
 
 | Year | Annual inflow (M m&sup3;) | Peak flood (m&sup3;/s) | Highest water level (m) |
 |---|---|---|---|
@@ -83,8 +99,6 @@ with this site's <a href="{{ '/en/data/engineering/tiangang/' | relative_url }}"
 | 1965 | 112.5 | 861 | 107.05 |
 | 1972 | 73.1 | 843 | 105.08 |
 
-*Figures are taken directly from the source as stated, without
-independent verification or unit conversion by this project. The
-source's annual hydrological table lists all 21 years from 1952&ndash;1972;
-only a few representative years are excerpted here &mdash; see p.85 of the
-source for the complete year-by-year data.*
+*Figures and chart data points are taken directly from the source as
+stated, without independent verification or unit conversion by this
+project. See p. 85 of the source for the complete year-by-year data.*

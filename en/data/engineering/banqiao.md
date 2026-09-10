@@ -11,9 +11,7 @@ description: Engineering and hydrological specifications for Banqiao Reservoir p
 The figures below are drawn from 《河南省水库基本资料汇编》(Henan Province
 Reservoir Basic Data Compilation), compiled by the Henan Provincial
 Revolutionary Committee Water Resources Bureau (internal circulation,
-publication year not stated; the historical hydrological data it
-includes runs through 1972, so it must have been compiled between 1972
-and the "75.8" failure in 1975), pp. 38&ndash;43. This is pre-failure design
+January 1974), pp. 38&ndash;43. This is pre-failure design
 and operating data, and can be cross-referenced against this site's
 <a href="{{ '/en/archive/1980-banqiao-shimantan-lessons-report/' | relative_url }}">1980 Banqiao/Shimantan lessons-learned report</a>, which covers the
 aftermath.
@@ -74,7 +72,27 @@ aftermath.
 | Earth/rock backfill | 4.2985M m&sup3; |
 | Total investment | 27.91M yuan |
 
+## Stage&ndash;storage&ndash;discharge curve
+
+The chart below is redrawn by this project from the source's stage-level
+table on pp. 41&ndash;42 (water level 94.0&ndash;116.14 m, with corresponding
+reservoir capacity and outlet/main-spillway/auxiliary-spillway discharge
+at each level) &mdash; it is an original chart, not a scan of the source's
+own figure.
+
+<img src="{{ '/assets/images/data/banqiao-stage-storage-discharge.png' | relative_url }}" alt="Banqiao Reservoir stage-storage-discharge curve" style="max-width:100%;" />
+
 ## Selected annual hydrological data (1951&ndash;1972)
+
+The chart below is likewise redrawn by this project from the source's
+year-by-year hydrological record on p. 43 (annual inflow, peak flood and
+its date, highest/lowest water level and dates). Dashed lines mark the
+design flood (6,630 m&sup3;/s) and check flood (9,870 m&sup3;/s) standards
+for comparison against the recorded annual peaks.
+
+<img src="{{ '/assets/images/data/banqiao-hydrograph-1951-1972.png' | relative_url }}" alt="Banqiao Reservoir annual peak flood and highest water level, 1951-1972" style="max-width:100%;" />
+
+Selected years, in table form:
 
 | Year | Annual inflow (M m&sup3;) | Peak flood (m&sup3;/s) | Highest water level (m) |
 |---|---|---|---|
@@ -84,8 +102,6 @@ aftermath.
 | 1965 | 499.1 | 2,904 | 111.27 |
 | 1972 | 579.3 | 6,432 | 113.87 |
 
-*Figures are taken directly from the source as stated, without
-independent verification or unit conversion by this project. The source's
-annual hydrological table lists all 22 years from 1951&ndash;1972; only a
-few representative years are excerpted here &mdash; see p.43 of the source
-for the complete year-by-year data.*
+*Figures and chart data points are taken directly from the source as
+stated, without independent verification or unit conversion by this
+project. See p. 43 of the source for the complete year-by-year data.*
