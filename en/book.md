@@ -22,9 +22,18 @@ archive discoveries, interviews completed, chapters drafted.
 
 ## Progress log
 
-<div class="pending">
-No entries yet.
-</div>
+- **September 25, 2026** &mdash; Published the first annotated primary-source
+  working draft: <a href="{{ '/book/1975-li-xiannian-farmland-symposium-speech-annotated/' | relative_url }}">Vice Premier Li Xiannian's speech at the National Farmland Capital Construction Symposium (annotated edition)</a> (Chinese), with 49 footnotes identifying the people, central directives, meetings, and engineering details referenced in the speech.
+
+## Annotated documents
+
+Some chapters of the book are being published early as annotated working
+drafts. The running text matches the verbatim copy in the Official Archive;
+the only difference is the added explanatory footnotes.
+
+| Title | Date | Footnotes | Corresponding archive entry |
+|---|---|---|---|
+| <a href="{{ '/book/1975-li-xiannian-farmland-symposium-speech-annotated/' | relative_url }}">Vice Premier Li Xiannian's speech at the National Farmland Capital Construction Symposium (annotated edition)</a> (Chinese) | Aug 11, 1975 | 49 | <a href="{{ '/archive/1975-li-xiannian-farmland-symposium-speech/' | relative_url }}">Official Archive</a> (Chinese) |
 
 ## Relationship between the book and this site
 

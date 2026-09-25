@@ -19,9 +19,15 @@ description: 本研究档案库所支持的学术专著的进展说明。
 
 ## 进展记录
 
-<div class="pending">
-暂无记录。
-</div>
+- **2026年9月25日**——发布第一份详注版原始文献工作稿：<a href="{{ '/book/1975-li-xiannian-farmland-symposium-speech-annotated/' | relative_url }}">国务院副总理李先念在全国农田基本建设座谈会上的讲话（详注本）</a>，附49条脚注，考订讲话涉及的人物、中央文件、会议与工程技术细节。
+
+## 详注文献
+
+本书部分章节以详注本的形式先行公开，作为工作稿供随时修订；正文与《官方档案》中的逐字收录本一致，区别仅在于附有考订性脚注。
+
+| 标题 | 日期 | 脚注数 | 对应档案条目 |
+|---|---|---|---|
+| <a href="{{ '/book/1975-li-xiannian-farmland-symposium-speech-annotated/' | relative_url }}">国务院副总理李先念在全国农田基本建设座谈会上的讲话（详注本）</a> | 1975年8月11日 | 49 | <a href="{{ '/archive/1975-li-xiannian-farmland-symposium-speech/' | relative_url }}">官方档案</a> |
 
 ## 本书与本站的关系
 
